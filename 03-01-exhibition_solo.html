@@ -1,0 +1,25 @@
+---
+title: Exhibition
+tag: Solo
+template: Exhibition
+link: '03-01-exhibition_solo.html'
+toplevel: '03-exhibition.html'
+layout: page-sublevel
+---
+<!-- Subnavigation -->
+
+<section class="page-wrapper">
+<article class="grid">
+    {% for exhibition in site.data.exhibition %}
+    {% if exhibition.type == "Solo" %}
+
+        {% include exhibition-item-solo.html %}
+
+    {% endif %}
+    {% endfor %}
+
+</article>
+</section>
+<section>
+        {% include bar-tags_exhibition.html %}
+</section>

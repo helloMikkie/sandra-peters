@@ -1,0 +1,22 @@
+
+.list--work{
+	display: flex; 
+	flex-direction: column;
+		
+}
+
+.list--work h2{
+	font-size: var(--fs-x-large);
+	font-weight: var(--fw-x-light);  
+}
+.list--work > * + *{
+	margin-top: 4rem; 
+	
+}
+
+.item_work--list {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}

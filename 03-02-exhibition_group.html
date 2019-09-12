@@ -1,0 +1,25 @@
+---
+title: Exhibition
+tag: Group
+template: Exhibition
+link: '03-02-exhibition_group.html'
+toplevel: '03-exhibition.html'
+layout: page-sublevel
+---
+<!-- Subnavigation -->
+
+<section class="page-wrapper">
+<article class="grid">
+    {% for exhibition in site.data.exhibition %}
+    {% if exhibition.type == "Group" %}
+
+        {% include exhibition-item-group.html %}
+
+    {% endif %}
+    {% endfor %}
+
+</article>
+</section>
+<section>
+        {% include bar-tags_exhibition.html %}
+</section>

@@ -1,0 +1,52 @@
+---
+title: Exhibitions
+layout: page
+---
+
+
+
+
+
+<main class="page-wrapper">
+
+
+	<section class="grid">
+			
+
+		{% for exhibition in site.data.exhibition %} 
+		{% if exhibition.upcoming == true %}
+		<article class="item_exhibition">
+				
+				<div class="image">
+					<img src="images/placeholder/portrait.jpg" alt="" />
+				</div>
+				
+				<div class="title">
+						<p class="tag upcoming-badge">upcoming</p>
+					
+					
+					<h2>
+						<a href="{{ exhibition.link }}">{{ exhibition.title}}</a>
+					</h2>
+					<p class="item-subline-venue">{{ exhibition.venue }} </p>
+					<p class="item-subline-duration">{{ exhibition.type }} exhibition</p>
+					<p class="item-subline-duration">{{ exhibition.duration }}</p>
+					
+					<!-- <a class="tag">{{ exhibition.year}}</a> -->
+				</div>
+			</article>
+	
+			
+			{% endif %}
+			{% if exhibition.upcoming == false %}
+		
+			{% include exhibition-item-group.html %}
+			{% endif %}
+	
+
+
+		{% endfor %}
+	</section>
+
+
+</main>

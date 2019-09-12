@@ -1,0 +1,19 @@
+<article class="item_video">
+	<div class="image">
+		<img src="images/placeholder/landscape.jpg" alt="" />
+	</div>
+
+	<div class="title">
+		<a href="02-media_video.html" class="tag">Video</a>
+		<h2>
+			<a href="{{ media.link }}">{{ media.title }}</a>
+		</h2>
+		<p class="item-subline">
+			{% if media.author %}
+			<span>Video by <span class="item-author">{{media.author}}</span></span>
+			{% else %}
+			<span> </span>
+			{% endif %}
+		</p>
+	</div>
+</article>

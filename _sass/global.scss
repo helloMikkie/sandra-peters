@@ -1,0 +1,103 @@
+// resets
+
+// font
+@font-face {
+	font-family: "Inter";
+	font-weight: 100 900;
+	font-stretch: 10%;
+	src: url("fonts/Inter.var.woff2") format("woff2");
+
+}
+
+// global
+
+:root {
+
+
+	--black: #131313;
+	--white: #e2e2e2;
+	--extra-white: #f0f0f0;
+	--gray: #979797;
+	--dark-gray: #3f3f3f;
+
+	--s1: 0.5rem;
+	--s2: 2rem;
+
+	// Typography
+	--fs-x-small: 0.75rem;
+	--fs-small: 1rem; 
+	--fs-regular: 1.2rem;
+	--fs-medium: 1.6rem;
+	--fs-large: 2rem;
+	--fs-x-large: 2.8rem; 
+
+	--fw-base: 350;
+	--fw-light: 280;
+	--fw-x-light: 200; 
+	--fw-medium: 600;
+
+	--ls-base: 0.03rem;
+	--ls-tracked: 0.08rem;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	// helper
+	// outline: 1px solid pink;
+ }
+
+body {
+	background-color: var(--black);
+	color: var(--white);
+	font-family: "Inter";
+	font-weight: var(--fw-base);
+	letter-spacing: var(--ls-base);
+	font-variation-settings: 'slnt' calc(-1 * var(--slant));
+	word-spacing: -0.1rem;
+	font-feature-settings: "case" 1;
+	font-feature-settings: "zero" 1;
+	font-feature-settings: "ss03" 1;
+	font-feature-settings: "ss01" 1;
+	font-feature-settings: "cv10" 1;
+}
+
+a {
+	color: var(--white);
+	text-decoration: none;
+	
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: var(--fs-medium);
+	font-weight: var(--fw-base);
+}
+
+p, ul {
+	font-size: 1.6rem;
+	line-height: 1.6;
+	font-weight: var(--fw-light);
+	letter-spacing: var(--ls-tracked);
+}
+
+img {
+	max-width: 100%;
+}
+
+ul {
+	list-style: square;
+}
+

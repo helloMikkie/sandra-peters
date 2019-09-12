@@ -1,0 +1,92 @@
+---
+title: about
+layout: page
+---
+
+<main class="page-wrapper">
+<section class="sidebar-container">
+
+	<article class="sidebar-left">
+		<div class="sidebar-stack">
+			<a href="http://" target="_blank" class="about-links">Download Presskit</a>
+			<br>
+			<a href="mailto:mail@sandra-peters.com" class="about-links" >mail(at)sandra-peters.com</a>
+			<br>
+			<a href="https://www.instagram.com/sandra_peters_art/" class="instagram instagram-small about-links"></a>
+		</div>
+	</article>
+	
+	<article class="sidebar-right essay-body">
+	{{ site.text | where:"title" , "about" }}
+	</article>
+
+</section>
+
+
+<!-- Multi-column List -->
+
+<h2 class="subheadline">Monographs and Solo Exhibition Catalogues</h2>
+
+<section class="multiColumn">
+	{% for item in site.data.selected %} {% if item.category == "solo" %}
+	<div class="multicolumn-item">
+		
+		<h3>{{ item.title }}</h3>
+		<div><p>{{ item.author }}</p>
+			<p>{{ item.publisher }}</p>
+			<p>{{ item.year }}</p>
+		</div>
+		
+	</div>
+	{% endif %} {% endfor %}
+</section>
+
+<h2 class="subheadline">Selected Books and Group Exhibition Catalogues</h2>
+
+<section class="multiColumn">
+	{% for item in site.data.selected %} {% if item.category == "group" %}
+	<div class="multicolumn-item">
+		
+		<h3>{{ item.title }}</h3>
+		<div><p>{{ item.author }}</p>
+			<p>{{ item.publisher }}</p>
+			<p>{{ item.year }}</p>
+		</div>
+		
+	</div>
+	{% endif %} {% endfor %}
+</section>
+
+
+<h2 class="subheadline">Selected Articles and Reviews</h2>
+
+<section class="multiColumn">
+	{% for item in site.data.selected %} {% if item.category == "articles" %}
+	<div class="multicolumn-item">
+		<h3>{{ item.title }}</h3>
+		<div><p>{{ item.author }}</p>
+			<p>{{ item.publisher }}</p>
+			<p>{{ item.year }}</p>
+		</div>
+	</div>
+
+	{% endif %} {% endfor %}
+</section>
+
+<h2 class="subheadline">Online Sources</h2>
+
+<section class="multiColumn">
+	{% for item in site.data.selected %} {% if item.category == "online" %}
+	<div class="multicolumn-item">
+		<h3>{{ item.title }}</h3>
+		<div><p>{{ item.author }}</p>
+			<p>{{ item.publisher }}</p>
+			<p>{{ item.year }}</p>
+		</div>
+	</div>
+
+	{% endif %} {% endfor %}
+</section>
+
+
+</main>

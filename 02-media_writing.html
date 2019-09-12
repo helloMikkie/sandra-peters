@@ -1,0 +1,21 @@
+---
+title: Media
+tag: Writing
+link: '02-media_writing.html'
+toplevel: '02-media.html'
+layout: page-sublevel
+---
+
+<main class="page-wrapper">
+<section class="grid">
+{% for media in site.data.media %}
+  {% if media.tag == "Writing" %}
+
+  {% include media-item-writing.html %}
+
+{% endif %}
+{% endfor %}
+
+</section>
+</main>
+{% include bar-tags_media.html %}

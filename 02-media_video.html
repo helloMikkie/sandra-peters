@@ -1,0 +1,25 @@
+---
+title: Media
+tag: Video
+link: '02-media_video.html'
+toplevel: '02-media.html'
+layout: page-sublevel
+---
+
+
+<main class="page-wrapper"> 
+
+<section class="grid">
+{% for media in site.data.media %}
+  {% if media.tag == "Video" %}
+
+
+    {% include media-item-video.html %}
+
+{% endif %}
+{% endfor %}
+
+</section>
+</main>
+
+{% include bar-tags_media.html %}

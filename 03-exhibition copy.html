@@ -1,0 +1,66 @@
+---
+title: Exhibitions
+layout: page
+---
+<main class="page-wrapper">
+<div class="exhibition-container">
+	
+	<div class="exhibition-text">
+			{% for exhibition in site.data.exhibition %} 
+		
+			{% if exhibition.featured == true %}
+
+			<h3 class="exhibition-title">{{ exhibition.title}}</h3>
+			<div class="exhibition-info">
+			<p class="venue">{{ exhibition.venue }}</p>
+			<p class="type">{{exhibition.type}}</p>
+			<p class="duration">{{ exhibition.duration }}</p>
+			</div>
+		{% endif %} {% endfor %}
+
+	</div>
+
+		<img class="exhibition-img" src="images/placeholder/landscape.jpg" alt="" />
+
+</div>
+
+
+
+<main class="page-wrapper">
+
+<section >
+
+	<div class="bar--exhibition_filter">
+		<div>
+		<a href="">2019</a>
+		<a href="">2018</a>
+		<a href="">2017</a>
+		<a href="">2016</a>
+		<a href="">2015</a>
+		<a href="">2014</a>
+		<a href="">2013</a>
+		<a href="">2012</a>
+		<a href="">2011</a>
+		<a href="">2010</a>
+		<a href="">2009</a>
+		<a href="">2008</a>
+		<a href="">2007</a>
+	</div>
+	</div>
+
+	<section class="grid">
+		{% for exhibition in site.data.exhibition %} 
+		
+		{% if exhibition.year == "2007"%}
+
+
+			{% include exhibition-item.html %}
+		
+
+
+		{% endif %} {% endfor %}
+	</section>
+
+</section>
+
+</main>

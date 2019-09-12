@@ -1,0 +1,24 @@
+---
+title: Work
+tag: Installation
+link: '01-02-work_installation.html'
+toplevel: '01-work.html'
+layout: page-sublevel
+---
+<!-- Subnavigation -->
+
+<section class="page-wrapper">
+<article class="grid">
+    {% for work in site.data.work %}
+    {% if work.tag == "Installation" %}
+
+        {% include work-item.html %}
+
+    {% endif %}
+    {% endfor %}
+
+</article>
+</section>
+<section>
+        {% include bar-tags_work.html %}
+</section>

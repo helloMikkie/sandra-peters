@@ -1,0 +1,939 @@
+-
+  id: W_0031
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  link: 01-work_detail.html
+  title: Untitled
+  year: '2011'
+  material: 'Beech wood, paint'
+  dimension: 'Approximately 100 x 100 cm'
+  related_work: 'W_0032; W_0033'
+  related_media: ""
+  related_exhibition: 'E_0013; E_0018'
+  news: true
+  image: 'images/work/W_0031/W_0031_Untitled-Frame.jpg'
+-
+  id: W_0032
+  tag: Installation
+  filter: 01-02-work_installation.html
+  image: images/work/W_0032/W_0032_Bilateral_1a.jpg
+  link: 01-work_detail.html
+  title: Bilateral––Diagonal
+  translation: ""
+  year: '2011'
+  material: 'In situ at Y8, Hamburg ,18-mm grey and 22-mm red masking tape on floor'
+  dimension: 'Overall 752 x 752 cm'
+  related_work: 'W_0031; W_0033'
+  related_media: P_0040
+  related_exhibition: E_0013
+  news: true
+-
+  id: W_0033
+  tag: Multiple
+  filter: 01-02-work_multiple.html
+  image: images/work/W_0033/W_0039 Within Without_Exhibit_1.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (Bilateral––Diagonal)'
+  translation: ""
+  year: '2011'
+  material: 'Silk-screen print on Fabriano Accademia drawing paper ,Edition of 8'
+  dimension: '93.5 x 93.5 cm'
+  related_work: 'W_0031; W_0032'
+  related_media: P_0030
+  related_exhibition: "E_0015; E_0013; E_0018; E_0027"
+-
+  id: W_0109
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/placeholder/landscape.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (Blaue Blume)'
+  translation: ""
+  year: '2017'
+  material: 'Finnboard, blue paint ,6 Models, scale 1:10'
+  dimension: 'Each 16.5 x 16.5 x 16.5 cm'
+  related_work: W_0110
+  related_media: P_0040
+  related_exhibition: ""
+-
+  id: W_0110
+  tag: Sculpture
+  filter: 01-02-work_sculptutre.html
+  image: images/work/W_0110/W_0110_Blaue Blume_1.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (Blaue Blume)'
+  translation: ""
+  year: 2017–18
+  material: 'Powder-coated aluminum, on floor'
+  dimension: '165 x 165 x 165 cm'
+  related_work: W_0109
+  related_media: 'P_0044; P_0040'
+  related_exhibition: ""
+-
+  id: W_0082
+  tag: Drawing
+  filter: '01-02-work_drawing.html"'
+  image: images/work/W_0082/W_0082_Cut Cube_01.jpg
+  link: 01-work_detail.html
+  title: CutCube
+  translation: ""
+  year: 2013–14
+  material: 'Series of 22 drawings for an unrealized artist’s book ,Ink on paper'
+  dimension: 'Each 25 x 25 cm'
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0034
+  tag: Sculpture
+  filter: 01-02-work_sculptutre.html
+  image: images/work/W_0034/W_0034_Window_1_1.jpg
+  link: 01-work_detail.html
+  title: 'Borrowed Window Piece I'
+  translation: ""
+  year: '2011'
+  material: '3 connected, free-standing elements ,Wood, glass, paint on casein base with grey pigment'
+  dimension: '265 x 396 cm, 300 x 146 cm, 265 x 262 cm, depth: 250 cm'
+  related_work: 'W_0035; W_0036; W_0037'
+  related_media: 'P_0027; P_0040; P_0030'
+  related_exhibition: E_0015
+-
+  id: W_0035
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/work/W_0035/W_0035_Borrowed_1a.jpg
+  link: 01-work_detail.html
+  title: 'Borrowed Window Piece I'
+  translation: ""
+  year: '2009'
+  material: 'Finnboard, grey acryilic paint, tape ,Scale 1:10'
+  dimension: '3 elements: 26.5 x 39.6 cm, 30 x 14.6 cm, 26.5 x 26.2 cm, depth: 25 cm'
+  related_work: 'W_0034; W_0036; W_0037'
+  related_media: P_0040
+  related_exhibition: E_0025
+-
+  id: W_0036
+  tag: Sculpture
+  filter: 01-02-work_sculptutre.html
+  image: images/work/W_0036/W_0035_Borrowed_1.jpg
+  link: 01-work_detail.html
+  title: 'Borrowed Window Piece II (unrealized)'
+  translation: ""
+  year: '2011'
+  material: 'Proposal for an exhibition at Y8 ,Suspended elements, painted wood, based on digital line drawings realized by Ken Koch'
+  dimension: 'Dimensions variable, in relation to space'
+  related_work: 'W_0034; W_0035; W_0037'
+  related_media: P_0040
+  related_exhibition: ""
+-
+  id: W_0037
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/work/W_0037/W_0037_Borrowed_2.jpg
+  link: 01-work_detail.html
+  title: 'Borrowed Window Piece II'
+  translation: ""
+  year: '2011'
+  material: 'Version a): 2 suspended elements, Finnboard, paint (blue) ,Version b): 2 suspended elements, Finnboard, paint (off white) ,Version c): 1 suspended element, Finnboard, paint (blue)'
+  dimension: 'Versions a) and b): 30.1 x 33.1 cm; 22.1 x 18.6 cm ,Version c) 30.1 x 33.1 cm'
+  related_work: 'W_0034; W_0035; W_0036'
+  related_media: P_0040
+  related_exhibition: ""
+-
+  id: W_0020
+  tag: Installation
+  filter: 01-02-work_installation.html
+  image: images/work/W_0020/W_0020_Steingewebe_Installation_1a.jpg
+  link: 01-work_detail.html
+  title: 'BrickFabric'
+  translation: ""
+  year: '2009'
+  material: 'In situ at the Villa Aichele, Lörrach ,Sand-lime bricks, individually manufactured (115 x 240 x 113 cm each)'
+  dimension: 'Overall 2825 x 3895 x 6470 cm'
+  related_work: W_0021
+  related_media: 'P_0011; P_0014; P_0016'
+  related_exhibition: E_0005
+-
+  id: W_0021
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/work/W_0021/W_0021_Fabrick_Model_1.jpg
+  link: 01-work_detail.html
+  title: FaBrick
+  translation: ""
+  year: '2008'
+  material: 'Wood, paint, paper, 3D print ,Scale 1:33'
+  dimension: '17 x 22 x 18 cm'
+  related_work: W_0020
+  related_media: ""
+  related_exhibition: E_0025
+-
+  id: W_0088
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  image: images/work/W_0088/W_0088_1_Pair.jpg
+  link: 01-work_detail.html
+  title: Pair
+  translation: ""
+  year: '2015'
+  material: 'Neon tubes (12 mm diameter)'
+  dimension: '200 x 150 cm'
+  related_work: 'W_0091; W_0092'
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0091
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  image: images/work/W_0091/W_0091_In Green_1a.jpg
+  link: 01-work_detail.html
+  title: 'In Green, in Line, in Pairs : Eleven Double Structures––Unfolding the Cube (unrealized)'
+  translation: ""
+  year: '2016'
+  material: 'Dimensions variable, in relation to space'
+  dimension: 'Dimensions variable, in relation to space'
+  related_work: 'W_0088; W_0092'
+  related_media: 'P_0044; P_0040'
+  related_exhibition: E_0025
+-
+  id: W_0092
+  tag: Multiple
+  filter: 01-02-work_multiple.html
+  image: images/work/W_0092/W_0092_Eleven_Silk Screen_a.jpg
+  link: 01-work_detail.html
+  title: 'Eleven Cubic Nets'
+  translation: ""
+  year: '2016'
+  material: 'Silk-screen print on Chromolux paper ,Edition of 66'
+  dimension: '68.1 x 82.1 cm'
+  related_work: 'W_0088; W_0091'
+  related_media: ' P_0040'
+  related_exhibition: E_0028
+-
+  id: W_0014
+  tag: 'Moving Image'
+  filter: 01-02-work_moving-image.html
+  image: images/work/W_0014/W_0014_Defile_Filmstill_1.jpg
+  link: 01-work_detail.html
+  title: 'Défilé des ombres'
+  translation: ""
+  year: '2009'
+  material: '24 animated digitalized photographs, sound, projected/on monitor ,4:00 minutes duration'
+  dimension: ""
+  related_work: W_0015
+  related_media: 'P_0016; P_0018'
+  related_exhibition: 'E_0003;E_0008; E_0009; E_0011; E_0012; E_0020; 21'
+-
+  id: W_0015
+  tag: Multiple
+  filter: 01-02-work_multiple.html
+  image: images/placeholder/square.jpg
+  link: 01-work_detail.html
+  title: 'Défilé des ombres'
+  translation: ""
+  year: '2009'
+  material: 'Silk-screen print on paper ,Edition of 100'
+  dimension: "59.4 x 84.1 cm, 91.5 x 128.5 cm, 124.2 x 176.3 cm, 110.2 x 190.4 cm, 104.7 x 166.7 cm, 111.3 x 161.5 cm"
+  related_work: W_0014
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0061
+  tag: Collage
+  filter: 01-02-work_collage.html
+  image: images/work/W_0061/W_0061_Facade_I_1.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (Facade Studies I)'
+  translation: ""
+  year: '2012'
+  material: 'Silk-screen cardboard, glass'
+  dimension: ""
+  related_work: ""
+  related_media: ' P_0040'
+  related_exhibition: ""
+-
+  id: W_0066
+  tag: Collage
+  filter: 01-02-work_collage.html
+  image: images/work/W_0066/W_0066_Facade_II_1.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (Facade Studies II)'
+  translation: ""
+  year: '2013'
+  material: 'Silk-screen cardboard, paper, foil'
+  dimension: "21 x 72.4 cm, 21.3 x 92 cm, 21 x 41 cm, 21.7 x 88 cm"
+  related_work: ""
+  related_media: ' P_0040'
+  related_exhibition: ""
+-
+  id: W_0054
+  tag: Sculpture
+  filter: 01-02-work_sculptutre.html
+  image: images/work/W_0054/W_0054_Interface_1_2a.jpg
+  link: 01-work_detail.html
+  title: 'Interface No. 1'
+  translation: ""
+  year: '2012'
+  material: 'Powder-coated aluminum, placed on floor'
+  dimension: '140 x 140 x 140 cm'
+  related_work: 'W_0056; W_0057; W_0055'
+  related_media: "P_0032; P_0040"
+  related_exhibition: ' E_0019; E_0023; E_0025'
+-
+  id: W_0056
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/work/W_0056/W_0056_SIX_1a.jpg
+  link: 01-work_detail.html
+  title: SIX
+  translation: ""
+  year: '2012'
+  material: 'Model for an unrealised outdoor sculpture ,6 elements, beech wood, paint'
+  dimension: 'Each 60 x 60 x 60 cm'
+  related_work: 'W_0054; W_0057; W_0055'
+  related_media: ' P_0040'
+  related_exhibition: ' E_0019; E_0025'
+-
+  id: W_0057
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  image: images/work/W_0057/W_0057_Corner_1.jpg
+  link: 01-work_detail.html
+  title: 'Corner Piece / Interface 1'
+  translation: ""
+  year: '2012'
+  material: 'Grey water-based paint'
+  dimension: 'Dimensions variable, in relation to space'
+  related_work: 'W_0054; W_0056; W_0055'
+  related_media: ' P_0040'
+  related_exhibition: ' E_0019'
+-
+  id: W_0055
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/work/W_0055/W_0055_2_Oxford_Wettbewerb.jpg
+  link: 01-work_detail.html
+  title: 'Interface No. 1'
+  translation: ""
+  year: '2013'
+  material: 'Model for an unrealized installation in situ planned for the University of Oxford , Finnboard, white paint ,Scale approximately 1:20'
+  dimension: ""
+  related_work: "W_0054; W_0056; W_0057"
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0002
+  tag: Collage
+  filter: 01-02-work_collage.html
+  image: images/work/W_0002/W_0002_Los Angeles_1.jpg
+  link: 01-work_detail.html
+  title: "Los Angeles"
+  translation: ""
+  year: 1999–2001
+  material: 'Tracing paper, white and colored paper, glossy paper, cardboard, foil, spackle, radiograph, yarn'
+  dimension: '21 x 20 cm, 22 x 18 cm, 28 x 34 cm, 20 x 24 cm, 23 x 34 cm'
+  related_work: ""
+  related_media: ' P_0040'
+  related_exhibition: ""
+-
+  id: W_0017
+  tag: Installation
+  filter: 01-02-work_installation.html
+  image: images/work/W_0017/W_0017_Modifikation_8web.jpg
+  link: 01-work_detail.html
+  title: 'Modification—Constantly Climbing Stones'
+  translation: 'Modifikation––stetig steigende Steine'
+  year: '2009'
+  material: 'In situ at the Kunstverein Ruhr, Essen ,2 helical columns, bricks, cinder blocks'
+  dimension: '320 cm height x 98 cm diameter'
+  related_work: 'W_0018; W_0019'
+  related_media: 'P_0044; P_0004; P_0005; P_0016; P_0027; P_0030; P_0040'
+  related_exhibition: E_0004
+-
+  id: W_0018
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/work/W_0018/W_0018_Modifikation_Modell_1.jpg
+  link: 01-work_detail.html
+  title: 'Modification—Constantly Climbing Stones'
+  translation: 'Modifikation––stetig steigende Steine'
+  year: '2008'
+  material: 'Wood, paint, paper, acrylic glass, 3D print ,Scale 1:33'
+  dimension: '18 x 30 x 22 cm'
+  related_work: 'W_0017; W_0019'
+  related_media: ""
+  related_exhibition: E_0004
+-
+  id: W_0019
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/work/W_0019/W_0019_Modifikation-Mltp.jpg
+  link: 01-work_detail.html
+  title: 'Modification—Constantly Climbing Stones'
+  translation: 'Modifikation––stetig steigende Steine'
+  year: '2009'
+  material: 'Hand-molded brick (4 x 16 x 14.3 cm), cardboard case, folded paper poster (unfolded 42 x 29.7 cm) ,Edition of 100'
+  dimension: 'Overall 4.1 x 17 x 16.2 cm'
+  related_work: "W_0017; W_0018"
+  related_media: ""
+  related_exhibition: 'E_0004; E_0006'
+-
+  id: W_0001
+  tag: Exercise
+  filter: 01-02-work_exercise.html
+  image: images/work/W_0001/W_0001_Schüttungen_1.jpg
+  link: 01-work_detail.html
+  title: Pours
+  translation: Schüttungen
+  year: '1998'
+  material: 'Performative exercise of pouring two identical sets of objects from two bags ,Mass-produced everyday items: polishing wheels, charcoal pencils, hairpins, fishing baits, plastic fishes, coins, packs of paper tissues, metal brackets'
+  dimension: 'Dimensions variable, depending on action'
+  related_work: ""
+  related_media: ' P_0040'
+  related_exhibition: ""
+-
+  id: W_0023
+  tag: Installation
+  filter: 01-02-work_installation.html
+  image: images/work/W_0023/W_0023_1_Fliessgleichgewicht.jpg
+  link: 01-work_detail.html
+  title: 'Fließgleichgewicht (unrealized)'
+  translation: ""
+  year: '2009'
+  material: 'In situ at the Kunstmuseum Bonn ,Ceramic tiles, glazed'
+  dimension: ""
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0026
+  tag: Audio
+  filter: ""
+  image: images/work/W_0026/W_0026_Berlin Mitte 2009.jpg
+  link: 01-work_detail.html
+  title: Berlin––Mitte
+  translation: ""
+  year: '2009'
+  material: 'Stereo sound installation on headphones ,1:25 minutes duration'
+  dimension: 'Dimensions variable'
+  related_work: ""
+  related_media: ""
+  related_exhibition: E_0007
+-
+  id: W_0038
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/placeholder/square.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (Pavilion)'
+  translation: ""
+  year: '2011'
+  material: 'Finnboard, tape'
+  dimension: '20 x 40 x 30 cm'
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0040
+  tag: Photography
+  filter: ""
+  image: images/work/W_0040/W_0040 How House Photo.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (How House)'
+  translation: ""
+  year: '2012'
+  material: 'Digital color photo print ,Edition of 8 + 2 ap'
+  dimension: '29 x 42 cm'
+  related_work: ""
+  related_media: P_0044
+  related_exhibition: ' E_0019'
+-
+  id: W_0058
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  image: images/work/W_0058/W_0058_1_Corner Piece.jpg
+  link: 01-work_detail.html
+  title: 'Corner Piece'
+  translation: ""
+  year: '2012'
+  material: '5 elements in the corner of a room ,MDF, paint, neon tubes (12 mm diameter)'
+  dimension: 'Approximately 200 cm height'
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0083
+  tag: 'Moving Image'
+  filter: 01-02-work_moving-image.html
+  image: images/work/W_0083/W_0083_Mixing_Colours_03_B.jpg
+  link: 01-work_detail.html
+  title: 'Mixing Colors'
+  translation: ""
+  year: '2014'
+  material: 'Projection of cross-fading images, alternating from 2 slide projectors ,17 and 16 color slides, sound of the projector ,13:28 minutes duration'
+  dimension: ""
+  related_work: ""
+  related_media: 'P_0044; P_0040'
+  related_exhibition: ""
+-
+  id: W_0112
+  tag: Sculpture
+  filter: 01-02-work_sculptutre.html
+  image: images/placeholder/portrait.jpg
+  link: 01-work_detail.html
+  title: 'DRIVE (Hole #7)'
+  translation: ""
+  year: '2018'
+  material: 'Flexible plywood (Bendy Ply), hard-wood, MDF wood, paint (white, blue)'
+  dimension: '88 x 82 x 513 cm'
+  related_work: ""
+  related_media: ""
+  related_exhibition: 'E_0030; E_0032'
+-
+  id: W_0111
+  tag: Installation
+  filter: 01-02-work_installation.html
+  image: images/placeholder/square.jpg
+  link: 01-work_detail.html
+  title: 'Posters for Book Presentation at Motto, Berlin'
+  translation: ""
+  year: '2018'
+  material: 'Colorprints on Tyveck paper'
+  dimension: 'Each 117 x 145 cm'
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0113
+  tag: Sculpture
+  filter: 01-02-work_sculptutre.html
+  image: images/work/W_0113/W_0113_1_CityCenter.jpg
+  link: 01-work_detail.html
+  title: CityCenter
+  translation: ""
+  year: '2018'
+  material: 'Hexagon of 6 silver aluminum blinds'
+  dimension: 'Each 364 x 60 cm, overall 364 x 120 cm diameter'
+  related_work: ""
+  related_media: ""
+  related_exhibition: E_0031
+-
+  id: W_0060
+  tag: Sculpture
+  filter: 01-02-work_sculptutre.html
+  image: images/work/W_0060/W_0060 North Kings Installation_1.jpg
+  link: 01-work_detail.html
+  title: 'North Kings Road, Intricate Structure (unrealized)'
+  translation: ""
+  year: '2012'
+  material: 'In situ at the MAK Center for Art and Architecture at the Schindler House, Los Angeles ,3 free-standing elements, concrete'
+  dimension: '152 x 234 cm; 152 x 170 cm; 152 x 89 cm'
+  related_work: W_0059
+  related_media: 'P_0035; P_0040'
+  related_exhibition: ""
+-
+  id: W_0059
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/work/W_0059/W_0059_North Kings_1.jpg
+  link: 01-work_detail.html
+  title: 'North Kings Road, Intricate Structure'
+  translation: ""
+  year: '2012'
+  material: '2 cardboard elements ,Scale 1:20'
+  dimension: '11.4 x 10.5 x 5.5 cm; 11.4 x 13 cm'
+  related_work: W_0060
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0093
+  tag: 'Glass Work'
+  filter: 01-02-work_glass-work.html
+  image: images/work/W_0093/W_0093_Move_1a.jpg
+  link: 01-work_detail.html
+  title: 'On the Move––In Circles'
+  translation: ""
+  year: '2016'
+  material: '16 double-sided silk-screen prints on and behind glass, Edition of 3'
+  dimension: 'Each 56.9 x 42 x 0.4 cm'
+  related_work: ""
+  related_media: 'P_0044; P_0040'
+  related_exhibition: E_0025
+-
+  id: W_0094
+  tag: Installation
+  filter: 01-02-work_installation.html
+  image: images/work/W_0094/W_0094_Pandora_1a.jpg
+  link: 01-work_detail.html
+  title: 'Pandora’s Box'
+  translation: ""
+  year: '2016'
+  material: '11 elements, powder-coated aluminum (10 yellow, 1 metallic dark grey)'
+  dimension: "Each 118 x 104 x 98 cm ,Overall dimensions variable, in relation to space, Installation measurements variable"
+  related_work: ""
+  related_media: 'P_0044; P_0040'
+  related_exhibition: 'E_0026; E_0025'
+-
+  id: W_0071
+  tag: Photography
+  filter: 01-02-work_photography.html
+  image: images/work/W_0071/W_0071_Pfützen_1a.jpg
+  link: 01-work_detail.html
+  title: Puddles
+  translation: Pfützen
+  year: '2013'
+  material: 'Digital color photo print in maple frame, grey paint'
+  dimension: '33.7 x 46 cm, 48 x 65.2 cm, 48 x 65.2 cm, 48 x 65.2 cm, 48 x 65.2 cm, 65.2 x 90.1 cm, 33.7 x 46 cm'
+  related_work: 'W_0077; W_0079; W_0080'
+  related_media: P_0040
+  related_exhibition: E_0025
+-
+  id: W_0077
+  tag: Photography
+  filter: 01-02-work_photography.html
+  image: images/placeholder/portrait.jpg
+  link: 01-work_detail.html
+  title: Puddles 
+  translation: Pfützen
+  year: '2013'
+  material: '9 digital color photo prints, framed between 2 sheets of float glass, light grey powder-coated steel-aluminum frame'
+  dimension: "each 138.2 x 175.4 cm"
+  related_work: 'W_0071; W_0072; W_0073; W_0074; W_0075; W_0076; W_0078'
+  related_media: P_0040
+  related_exhibition: E_0025
+-
+  id: W_0007
+  tag: Collage
+  filter: 01-02-work_collage.html
+  image: images/work/W_0007/W_0007_Rheinland_1.jpg
+  link: 01-work_detail.html
+  title: Rheinland
+  translation: ""
+  year: '2005'
+  material: 'Tracing paper, foil, radiograph, colored pencil'
+  dimension: 'each 29.7 x 42 cm'
+  related_work: 'W_0011; W_0012; W_0013'
+  related_media: 'P_0003; P_0018'
+  related_exhibition: E_0001
+-
+  id: W_0011
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  image: images/work/W_0011/W_0011_1_Elemente als Formen.jpg
+  link: 01-work_detail.html
+  title: 'Elements as Form, Forms as Elements'
+  translation: 'Elemente als Formen, Formen als Elemente'
+  year: '2007'
+  material: 'Neon tubes (10 mm diameter)'
+  dimension: 'Overall 200 x 800 x 5.5 cm'
+  related_work: "W_0007; W_0008; W_0009; W_0010; W_0012; W_0013"
+  related_media: 'P_0003; P_0018'
+  related_exhibition: 'E_0001; E_0022'
+-
+  id: W_0012
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  image: images/placeholder/portrait.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (Butterfly Effect)'
+  translation: ""
+  year: '2007'
+  material: 'In situ at the Bonner Kunstverein, Bonn ,Acrylic paint'
+  dimension: 'Approximately 20 x 30 cm'
+  related_work: "W_0007; W_0008; W_0009; W_0010; W_0011; W_0013"
+  related_media: ""
+  related_exhibition: E_0002
+-
+  id: W_0013
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  image: images/work/W_0013/W_0013_Emergenz_1a.jpg
+  link: 01-work_detail.html
+  title: Emergenz
+  translation: ""
+  year: '2009'
+  material: 'In situ at the Duale Hochschule Baden-Württemberg Lörrach ,Neon tubes (12 mm diameter)'
+  dimension: 'Overall 554 x 316 x 5.5 cm'
+  related_work: 'W_0007; W_0008; W_0009; W_0010; W_0012'
+  related_media: P_0012
+  related_exhibition: ""
+-
+  id: W_0041
+  tag: Drawing
+  filter: '01-02-work_drawing.html"'
+  image: images/work/W_0041/W_0041_Roof_1a.jpg
+  link: 01-work_detail.html
+  title: 'Roof Studies 1–13'
+  translation: ""
+  year: '2012'
+  material: 'Ink on paper'
+  dimension: 'each 21.6 x 27.9 cm'
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0030
+  tag: 'Moving Image'
+  filter: 01-02-work_moving-image.html
+  image: images/work/W_0030/W_0030_Flux_Balance_10_A.jpg
+  link: 01-work_detail.html
+  title: 'Flux Balance / Rotating Wings'
+  translation: ""
+  year: '2010'
+  material: 'Projection of cross-fading images, alternating from 2 slide projectors ,19 and 19 color slides, sound of the projector ,15:04 minutes duration'
+  dimension: ""
+  related_work: 'W_0039; W_0070'
+  related_media: 'P_0025; P_0040'
+  related_exhibition: 'E_0010; E_0016; E_0019'
+-
+  id: W_0039
+  tag: 'Moving image'
+  filter: 01-02-work_moving-image.html
+  image: images/placeholder/square.jpg
+  link: 01-work_detail.html
+  title: 'Within : Without'
+  translation: ""
+  year: '2011'
+  material: 'Projection of cross-fading images, alternating from 2 slide projectors ,20 and 19 color slides, sound of the projector ,15:29 minutes duration'
+  dimension: ""
+  related_work: 'W_0030; W_0070'
+  related_media: P_0040
+  related_exhibition: ' E_0019'
+-
+  id: W_0070
+  tag: 'Moving Image'
+  filter: 01-02-work_moving-image.html
+  image: images/work/W_0070/W_0070_Ahoy_01_A.jpg
+  link: 01-work_detail.html
+  title: Ahoy
+  translation: ""
+  year: '2013'
+  material: 'Projection of cross-fading images, alternating from 2 slide projectors ,15 and 15 color slides, sound of the projector ,12:18 minutes duration'
+  dimension: ""
+  related_work: 'W_0030; W_0039'
+  related_media: P_0040
+  related_exhibition: ""
+-
+  id: W_0024
+  tag: Installation
+  filter: 01-02-work_installation.html
+  image: images/work/W_0024/W_0024_2 Selb_Model_1a.jpg
+  link: 01-work_detail.html
+  title: 'Selbviert (unrealized)'
+  translation: ""
+  year: '2009'
+  material: 'In situ at the new building of the Bundesnachrichtendienst BND, Berlin ,4 elements, stainless steel, 4 different transparent color coatings'
+  dimension: 'Each approximately 4500 x 7000–9000 cm'
+  related_work: W_0025
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0025
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/placeholder/portrait.jpg
+  link: 01-work_detail.html
+  title: Selbviert
+  translation: ""
+  year: '2009'
+  material: 'Stone, paper, Finnboard, paint, Scale approximately 1:50'
+  dimension: '19 x 16 x 18 cm'
+  related_work: W_0024
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0095
+  tag: Multiple
+  filter: 01-02-work_multiple.html
+  image: images/work/W_0095/W_0095Pandora_Silk Screen_a.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (Pandora’s Box)'
+  translation: ""
+  year: '2016'
+  material: 'Silk-screen print on Munken Kristall paper ,Edition of 66'
+  dimension: '98.1 x 68.1 cm'
+  related_work: "W_0097; W_0098; W_0099; W_0100; W_0101; W_0102; W_0103; W_0104; W_0105; W_0106; W_0107; W_0108"
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0097
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  image: images/work/W_0097/W_0097_Untitled_1a.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (Wall Drawing)'
+  translation: ""
+  year: '2016'
+  material: 'Latex paint (silver metallic and yellow matte)'
+  dimension: '330 x 440 cm'
+  related_work: "W_0095; W_0098; W_0099; W_0100; W_0101; W_0102; W_0103; W_0104; W_0105; W_0106; W_0107; W_0108"
+  related_media: P_0040
+  related_exhibition: E_0026
+-
+  id: W_0098
+  tag: Drawing
+  filter: '01-02-work_drawing.html"'
+  image: images/work/W_0098/W_0098_Squint_Zeich_1a.jpg
+  link: 01-work_detail.html
+  title: 'Untitled 1–5 (Slight Squint)'
+  translation: ""
+  year: '2016'
+  material: 'Pencil on squared Clairefontaine paper'
+  dimension: ""
+  related_work: "W_0095; W_0097; W_0103; W_0104; W_0105; W_0106; W_0107; W_0108"
+  related_media: P_0040
+  related_exhibition: ""
+-
+  id: W_0103
+  tag: 'Glass Work'
+  filter: 01-02-work_glass-work.html
+  image: images/placeholder/landscape.jpg
+  link: 01-work_detail.html
+  title: "Untitled 1–6 (Slight Squint)"
+  translation: ""
+  year: '2017'
+  material: 'Double-sided silk-screen print on and behind glass'
+  dimension: 'each 83.8 x 120 x 0.4 cm'
+  related_work: 'W_0095; W_0097; W_0098; W_0099; W_0100; W_0101; W_0102'
+  related_media: 'P_0044; P_0040'
+  related_exhibition: ""
+-
+  id: W_0084
+  tag: Audio
+  filter: 01-02-work_audio.html
+  image: images/work/W_0084/W_0084_Sonic_1.jpg
+  link: 01-work_detail.html
+  title: SonicCube
+  translation: ""
+  year: 2014–
+  material: '8-channel sound installation, 8 directional speakers in 8 corners of an imaginary cube, pointing to the center'
+  dimension: 'Overall 330 x 330 x 330 cm'
+  related_work: W_0085
+  related_media: P_0040
+  related_exhibition: E_0025
+-
+  id: W_0085
+  tag: Model
+  filter: 01-02-work_model.html
+  image: images/work/W_0085/#W_0085 Webbing_Model_1.jpg
+  link: 01-work_detail.html
+  title: Untitled
+  translation: ""
+  year: '2014'
+  material: 'Version a): Finnboard, white paint, suspension frame (fir), Version b) Beech wood, white paint, suspension frame (fir)'
+  dimension: 'Version a): overall height including suspension frame 32 x 18 x 18 cm), Version b): overall height in relation to space, suspension frame 140 x 140 cm'
+  related_work: W_0084
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0027
+  tag: Audio
+  filter: 01-02-work_audio.html
+  image: images/work/W_0027/W_0027 Sound_Column_01.jpg
+  link: 01-work_detail.html
+  title: 'Sound Column : Circling Sound'
+  translation: ""
+  year: '2010'
+  material: '8 channel sound installation, speakers suspended from the ceiling in a circle ,16:00 minutes duration'
+  dimension: 'Dimensions variable'
+  related_work: 'W_0028; W_0029'
+  related_media: 'P_0027; P_0030; P_0040'
+  related_exhibition: E_0015
+-
+  id: W_0029
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  image: images/placeholder/square.jpg
+  link: 01-work_detail.html
+  title: 'Untitled (Sound Column : Circling Sound)'
+  translation: ""
+  year: '2010'
+  material: 'Drawing presenting structural tool developed by Gregor Stemmrich'
+  dimension: 'Dimensions variable'
+  related_work: 'W_0027; W_0028'
+  related_media: ""
+  related_exhibition: E_0015
+-
+  id: W_0028
+  tag: Multiple
+  filter: 01-02-work_multiple.html
+  image: images/work/W_0028/W_0028_Sound2011a.jpg
+  link: 01-work_detail.html
+  title: 'Sound Column : Circling Sound'
+  translation: ""
+  year: '2011'
+  material: 'Vinyl record, cardboard sleeve, folded paper poster (unfolded 60 x 30 cm) ,Edition of 200'
+  dimension: 'Overall 31.2 x 31.2 cm'
+  related_work: 'W_0027; W_0029'
+  related_media: ""
+  related_exhibition: ""
+-
+  id: W_0089
+  tag: Installation
+  filter: 01-02-work_installation.html
+  image: images/work/W_0089/W_0089_01 Tango_1a.jpg
+  link: 01-work_detail.html
+  title: Tango
+  translation: ""
+  year: 2013–16
+  material: '22 glass sheets in 11 pairs on floor ,Glass (12 mm) covering 1.5 square meter floor surface per pair'
+  dimension: 'Dimensions variable, in relation to space'
+  related_work: W_0090
+  related_media: 'P_0044; P_0040'
+  related_exhibition: E_0025
+-
+  id: W_0090
+  tag: 'Wall Piece'
+  filter: 01-02-work_wall-piece.html
+  image: images/work/W_0090/W_0090_02 Tango_5a.jpg
+  link: 01-work_detail.html
+  title: Tango
+  translation: ""
+  year: 2013–16
+  material: 'Neon tubes (12 mm diameter), installed with equal distances to floor and ceiling ,Typeface of work developed in collaboration with cyan, Berlin'
+  dimension: 'Overall 97 x 322 cm'
+  related_work: W_0089
+  related_media: P_0040
+  related_exhibition: E_0025
+-
+  id: W_0086
+  tag: Sculpture
+  filter: 01-02-work_sculptutre.html
+  image: images/work/W_0086/W_0086 Wandering Spirit Sculpture .jpg
+  link: 01-work_detail.html
+  title: 'Wandering Spirit'
+  translation: ""
+  year: '2014'
+  material: 'Suspended wooden grid (fir) and cube structure (beech wood), white acrylic paint'
+  dimension: '140 x 140 cm, height in relation to space'
+  related_work: W_0087
+  related_media: P_0034
+  related_exhibition: E_0024
+-
+  id: W_0087
+  tag: Installation
+  filter: 01-02-work_installation.html
+  image: images/work/W_0087/W_0087_Webbing_2.jpg
+  link: 01-work_detail.html
+  title: Webbing
+  translation: ""
+  year: '2015'
+  material: '6 cubes (beech wood), paint, wire, suspended on frames (fir) from the ceiling'
+  dimension: 'Each cube approximately 140 x 140 cm ,Overall dimensions variable, in relation to space'
+  related_work: W_0086
+  related_media: 'P_0044; P_0040'
+  related_exhibition: E_0025
+-
+  id: W_0081
+  tag: Installation
+  filter: 01-02-work_installation.html
+  image: images/work/W_0081/W_0081_Zabriskie_1.jpg
+  link: 01-work_detail.html
+  title: 'Zabriskie Point (unrealized)'
+  translation: ""
+  year: '2013'
+  material: '132 rubber elements in 66 pairs on floor, photography on newsprint (29.7 x 42 cm) on wall'
+  dimension: 'Dimensions variable, in relation to space'
+  related_work: ""
+  related_media: 'P_0044; P_0040'
+  related_exhibition: ""

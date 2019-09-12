@@ -1,0 +1,24 @@
+---
+title: Media
+tag: Publication
+link: '02-media_publication.html'
+toplevel: '02-media.html'
+layout: page-sublevel
+---
+<!-- Subnavigation -->
+
+
+<main class="page-wrapper">
+<section class="grid">
+{% for media in site.data.media %}
+  {% if media.tag == "Publication" %}
+
+  {% include media-item-publication.html %}
+
+{% endif %}
+{% endfor %}
+
+</section>
+</main>
+
+{% include bar-tags_media.html %}

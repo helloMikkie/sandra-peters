@@ -1,0 +1,113 @@
+---
+title: 'Zeichnung heute V: Sandra Peters'
+template: Media
+tag: publication
+link: '02-media_publication.html'
+toplevel: "02-media.html"
+layout: page-detail
+---
+
+<section class="detail-header">
+		<h1 class="header-title">{{ page.title }}</h1>
+</section>
+
+<!--  Pseudo-Slider  -->
+
+{% include pseudo-slider.html %}
+
+<main class="page-wrapper">
+
+<section class="sidebar-container">
+		
+			<article class="sidebar-left">
+				{% for media in site.data.media %} 
+				{% if media.id == 'P_0001' %}
+
+					{% if media.translation %}
+						<p>{{media.translation}}</p>
+					{% endif %}
+
+					{% if media.author %}
+						<p>{{ media.author }}</p>
+						{% endif %}
+						{% if media.publisher %}
+						<p>{{ media.publisher }}</p>
+						{% endif %}
+						{% if media.published_in %}
+						<p>{{ media.published_in}}</p>
+						{% endif %}
+						{% if media.year %}
+						<p>{{ media.year }}</p>
+						{% endif %}
+					
+						<p class="share"> <span>Share</span><a href="#" class="tag">sandra-peters/{{media.id}}</a></p> 
+		
+
+				{% endif %} {% endfor %}
+			</article>
+			<article class="sidebar-right essay-body">
+				<p>{{ site.text | where:"title" , "publication-detail" }}</p>
+				
+			</article>
+	
+	</section>
+
+
+
+<!-- Related -->
+
+<h2 class="related">Related</h2>
+<section class="grid">
+
+<!-- work item -->
+	{% for work in site.data.work %} 
+	{% if work.id == "W_0032" or work.id == "W_0033" %}
+
+		{% include work-item.html %}
+
+	{% endif %} 
+	{% endfor %} 
+
+<!-- media: publication item  -->
+	{% for media in site.data.media %} 
+	{% if media.id == 'P_0001' or media.id == 'P_0002' and media.tag == 'Publication' %}
+
+		{% include media-item-publication.html %}
+
+	{% endif %} {% endfor %} 
+
+<!-- media: essay item  -->
+{% for media in site.data.media %} 
+{% if media.id == 'P_0003'  and media.tag == 'Essay' %}
+
+{% include media-item-essay.html %}
+
+{% endif %} {% endfor %} 
+
+<!-- media: writing item  -->
+{% for media in site.data.media %} 
+{% if media.id == 'P_0004' and media.tag == 'Writing' %}
+
+{% include media-item-writing.html %}
+
+{% endif %} {% endfor %} 
+
+
+<!-- media: video item  -->
+{% for media in site.data.media %} 
+{% if media.id == 'P_0005' and media.tag == 'Video' %}
+
+{% include media-item-video.html %}
+
+{% endif %} {% endfor %} 
+
+<!--  exhibition: exhibition item-->
+	{% for exhibition in site.data.exhibition %} 
+	{% if exhibition.id == 'E_0001' or exhibition.id == 'E_0002' %}
+
+		{% include exhibition-item.html %}
+
+	{% endif %} {% endfor %}
+</section>
+
+</main>

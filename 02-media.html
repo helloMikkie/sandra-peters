@@ -1,0 +1,35 @@
+---
+title: Media
+layout: page
+---
+
+
+<!-- Content -->
+
+<main class="page-wrapper">
+<section class="grid">
+{% for media in site.data.media %}
+    {% if media.tag == "Writing" %}
+
+        {% include media-item-writing.html %}
+
+    {% elsif media.tag == "Essay" %}
+    
+      {% include media-item-essay.html %}
+
+    {% elsif media.tag == "Video" %}
+        {% include media-item-video.html %}
+
+
+    {% elsif media.tag == "Publication" %}
+
+        {% include media-item-publication.html %}
+
+
+{% endif %}
+{% endfor %}
+
+</section>
+
+{% include bar-tags_media.html %}
+</main>

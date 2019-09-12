@@ -1,0 +1,261 @@
+.page-wrapper{
+	// max-width: 90%; 
+	margin-left: 2em; 
+	margin-right: 2em; 
+	margin-top: 10em; 
+	margin-bottom: 4em; 
+}
+.page-wrapper > * + *{
+	margin-top: 4em; 
+}
+
+/* ************************ 
+	Sidebar Layout
+************************ */
+
+.sidebar-container{
+	display: flex;
+	flex-direction: column;  
+}
+
+.sidebar-left{
+	flex-basis: 25%;
+	margin-top: 4em; 
+	order: 2; 
+}
+
+.sidebar-noImage{
+	display: none; 
+}
+
+.description{
+	margin-top: 4em; 
+}
+
+.sidebar-left > a,
+.sidebar-left > p,
+.description > p,
+.image-caption > p {
+	border-top: 1px solid var(--dark-gray); 
+	display: block; 
+	padding: 1em 0; 
+	font-size: var(--fs-small); 
+	font-weight: var(--fw-base);
+	letter-spacing: var(--ls-base);
+}
+
+/* ************************ 
+	Sidebar Contactz 
+************************ */
+
+.sidebar-left .sidebar-stack{
+	margin-bottom: 4em; 
+}
+
+.sidebar-stack *{
+	font-size: var(--fs-small);
+	font-weight: var(--fw-base); 
+	line-height: 1.6; 
+	margin-top: 1.5em;
+	max-width: 28ch;  
+}
+
+
+.sidebar-stack h2{
+	margin-top: 0.5em; 
+	padding-top: 0.5em;  
+	padding-bottom: 1em; 
+	border-bottom: 1px solid var(--dark-gray); 
+}
+.sidebar-stack > h3 {
+	color: var(--gray);
+	text-transform: uppercase; 
+	letter-spacing: var(--ls-tracked); 
+}
+
+.sidebar-stack a {
+	letter-spacing: var(--ls-tracked);
+	position: relative;
+	display: inline-block; 
+
+}
+.sidebar-stack > a:before{
+    position: absolute;
+    content: '';
+    height: 1px;
+    bottom: -3px; 
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: var(--gray);
+    z-index: -1;
+    transition: transform 0.2s ease-in-out; 
+}
+
+.sidebar-stack > a:hover:before{
+    transform: translateY(-6px); 
+}
+
+.sidebar-stack .about-links{
+	display: inline-block;
+	margin-top: 0;
+	margin-bottom: 2em;  
+	position: relative;  
+}
+
+/* ************************ 
+	Sidebar Essay 
+************************ */
+
+.image-caption > p {
+	display: block; 
+	padding: 0.5em 0; 
+	font-size: var(--fs-small); 
+	font-weight: var(--fw-base);
+	letter-spacing: var(--ls-base);
+}
+
+
+
+.sidebar-right{
+	flex-basis: 75%; 
+}
+
+
+
+@media(min-width: 1200px){
+	.sidebar-container{
+		flex-direction: row; 
+	}
+	.sidebar-left{
+		order: -1; 
+		margin-right: 2em; 
+		margin-top: 1em; 
+
+	}
+	.sidebar-noImage{
+		display: block; 
+	}
+	.sidebar-right{
+		max-width: 80em; 
+	}
+	
+}
+
+/* ************************ 
+	Detail
+************************ */
+
+.detail-header{
+	position: sticky; 
+	top: 4em;
+	left: 0;  
+	width: 100%; 
+	padding-top: 4em;
+	padding-left: 2em; 
+	padding-bottom: 1em;  
+	background-color:var(--black); 
+	z-index: 1; 
+}
+.header-title{
+	font-size: var(--fs-x-large); 
+	font-weight: var(--fw-x-light);
+	color:var(--white); 
+}
+.header-author, .related, .subheadline{
+
+	padding-top: 0.5em; 
+	text-transform: uppercase; 
+	font-size: var(--fs-small);
+	font-weight: var(--fw-medium);
+	letter-spacing: var(--ls-tracked);
+	color: var(--gray); 
+}
+
+/* ************************ 
+	Work-Detail Pseudo-Slider 
+************************ */
+
+.scroll-wrapper{
+	margin-top: 4em; 
+}
+.scroll {
+	margin-top: 3em; 
+	// margin-bottom: 1em; 
+	margin-left: 2em; 
+	overflow: auto;
+	white-space: nowrap;
+	div {
+		width: auto;
+		height: calc(100vh - 15em);
+		display: inline-block;
+		padding-right: 4px;
+		img {
+			height: 100%;
+			width: auto;
+		}
+	}
+}
+
+.scroll-indicator{
+	margin-left: 2em;
+	margin-right: 2em; 
+	p{
+		font-size: var(--fs-small);
+		font-weight: var(--fw-base);
+	
+	}
+
+}
+/* ************************ 
+	Work-Detail Video 
+************************ */
+
+.video-wrapper {
+	margin-top: 8em; 
+
+	iframe {
+		width: 100vw;
+		height: calc(100vh - 16rem);
+	}
+}
+
+
+/* ************************ 
+	About Multicolumn 
+************************ */
+
+.multiColumn {
+	column-count: 1;
+	column-gap: 8em;
+	overflow: hidden;
+}
+
+.multiColumn > * {
+	-webkit-column-break-inside: avoid;
+
+}
+
+.multiColumn > * + *{
+	margin-top: 1em; 
+}
+
+
+@media (min-width:50em) {
+	.multiColumn {
+		column-count: 2;
+	}
+}
+
+@media (min-width:80em) {
+	.multiColumn {
+		column-count: 3;
+	}
+}
+
+@media (min-width:100em) {
+	.multiColumn {
+		column-count: 4;
+
+	}
+}

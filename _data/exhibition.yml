@@ -1,0 +1,401 @@
+-
+  id: E_XXX
+  title: 'Exploring the Cube - Example Upcoming'
+  translation: ""
+  year: '2019'
+  type: 'Group'
+  venue: 'Martin-Gropius Bau, Berlin'
+  duration: 'September 13–November 11, 2019'
+  related_work: ""
+  related_media: "W_0007; W_0008; W_0009; W_0010; W_0011"
+  related_: P_0001
+  upcoming: true
+  news: true
+-
+  id: E_0001
+  title: 'Zeichnung heute V: <br> Katja Eckert, <br> Karim Noureldin, Sandra Peters'
+  year: '2007'
+  type: 'Group'
+  venue: 'Kunstmuseum Bonn, Bonn'
+  duration: 'September 13–November 11, 2007'
+  related_work: ""
+  related_media: "W_0007; W_0008; W_0009; W_0010; W_0011"
+  related_: P_0001
+  upcoming: false
+-
+  id: E_0002
+  title: 'Offene Ateliers'
+  link: 03-exhibition-detail.html
+  year: '2007'
+  type: 'Group'
+  venue: 'Atelierhaus des Bonner Kunstvereins, Bonn'
+  duration: 'October 27–October 28, 2007'
+  related_work: ""
+  related_media: W_0012
+  related_: ""
+  upcoming: false
+-
+  id: E_0004
+  title: 'Sandra Peters: <br> Modifikation––stetig steigende Steine'
+  translation: ""
+  year: '2009'
+  type: 'Solo'
+  venue: 'Kunstverein Ruhr, Essen'
+  duration: 'May 10–August 30, 2009'
+  related_work: ""
+  related_media: 'W_0017; W_0018; W_0019'
+  related_: P_0005
+  upcoming: false
+
+-
+  id: E_0005
+  title: BrickFabric
+  translation: SteinGewebe
+  year: '2009'
+  type: 'Solo'
+  venue: 'Villa Aichele, Lörrach'
+  duration: 'June 29–July 19, 2009'
+  related_work: ""
+  related_media: W_0020
+  related_: P_0016
+  upcoming: false
+
+-
+  id: E_0006
+  title: Kunst_Buch_Raum
+  translation: ""
+  year: '2009'
+  type: 'Group'
+  venue: 'Former Alexander von Humboldt-Buchhandlung, Potsdam'
+  duration: 'September 13–October 10, 2009'
+  related_work: ""
+  related_media: W_0019
+  related_: ""
+  upcoming: false
+
+-
+  id: E_0003
+  title: 'Selected Artists: Stipendiatinnen und Stipendiaten des Arbeitsstipendiums für Bildende Kunst des Berliner Senats 2008'
+  translation: ""
+  year: '2009'
+  type: 'Group'
+  venue: 'NGBK Neue Gesellschaft für Bildende Kunst, Berlin'
+  duration: 'February 7–March 1, 2009'
+  related_work: ""
+  related_media: W_0014
+  related_: P_0006
+  upcoming: false
+
+-
+  id: E_0007
+  title: 'Zeigen: <br> Eine Audiotour durch Berlin von Karin Sander'
+  translation: ""
+  year: 2009–2010
+  type: 'Group'
+  venue: 'Temporäre Kunsthalle Berlin, Berlin'
+  duration: 'December 5,2009–anuary 10, 2010'
+  related_work: ""
+  related_media: W_0026
+  related_: ""
+  upcoming: false
+
+-
+  id: E_0010
+  title: 'Measuring Potentials'
+  translation: ""
+  year: '2010'
+  type: 'Group'
+  venue: 'Potsdamer Straße 88, Berlin'
+  duration: 'April 0030–May 2, 2010'
+  related_work: ""
+  related_media: W_0030
+  related_: ""
+  upcoming: false
+-
+  id: E_0009
+  title: 'Défilé des ombres'
+  translation: ""
+  year: '2010'
+  type: 'Group'
+  venue: 'Internationales Forum des jungen Films, 60. Internationale Filmfestspiele Berlin, Berlin'
+  duration: 'February 11–February 21, 2010'
+  related_work: ""
+  related_media: W_0014
+  related_: "E_0008; E_0011; E_0012;  E_0020; E_0021"
+  upcoming: false
+-
+  id: E_0008
+  title: 'Défilé des ombres'
+  translation: ""
+  year: '2010'
+  type: 'Group'
+  venue: 'European Film Festival, London'
+  duration: ""
+  related_work: ""
+  related_media: W_0014
+  related_: "E_0009; E_0011; E_0012;  E_0020; E_0021"
+  upcoming: false
+-
+  id: E_0015
+  title: Interplay
+  translation: ""
+  year: '2011'
+  type: 'Solo'
+  venue: 'Kunstsaele Berlin, Berlin'
+  duration: 'November 12–December 10, 2011'
+  related_work: ""
+  related_media: "W_0027; W_0029; W_0033; W_0034"
+  related_: P_0027
+  upcoming: false
+-
+  id: E_0013
+  title: '(Re)locating the Self: <br> Sandra Peters, Bilateral–Diagonal'
+  translation: ""
+  year: '2011'
+  type: 'Solo'
+  venue: 'Y8, Hamburg'
+  duration: 'November 3–November 28, 2011'
+  related_work: ""
+  related_media: 'W_0031; W_0032; W_0033'
+  related_: ""
+  upcoming: false
+-
+  id: E_0016
+  title: 'Envisioning Buildings: Reflecting Architecture in Contemporary Art Photography'
+  translation: 'Erschaute Bauten: Architektur im Spiegel zeitgenössischer Kunstfotografie'
+  year: '2011'
+  type: 'Group'
+  venue: 'MAK – Austrian Museum of Applied Arts / Contemporary Art, Vienna'
+  duration: 'December 7, 2011–April 22, 2012'
+  related_work: ""
+  related_media: W_0030
+  related_: P_0025
+  upcoming: false
+-
+  id: E_0014
+  title: 'Navigating Darkness'
+  translation: ""
+  year: '2011'
+  type: 'Group'
+  venue: 'Tape Modern, Berlin'
+  duration: 'November 4–November 4, 2011'
+  related_work: ""
+  related_media: W_0014
+  related_: ""
+  upcoming: false
+-
+  id: E_0011
+  title: 'Défilé des ombres'
+  translation: ""
+  year: '2011'
+  type: 'Group'
+  venue: 'Kenya International Film Festival, Nairobi'
+  duration: ""
+  related_work: ""
+  related_media: W_0014
+  related_: "E_0008; E_0009; E_0012;  E_0020; E_0021"
+  upcoming: false
+-
+  id: E_0012
+  title: 'Défilé des ombres'
+  translation: ""
+  year: '2011'
+  type: 'Group'
+  venue: 'BIFF Berlin Independent Film Festival, Berlin'
+  duration: ""
+  related_work: ""
+  related_media: W_0014
+  related_: "E_0008; E_0009; E_0011;  E_0020; E_0021"
+  upcoming: false
+-
+  id: E_0018
+  title: 'Shelf Life'
+  translation: ""
+  year: '2012'
+  type: 'Group'
+  venue: 'Kunsthalle am Hamburger Platz, Berlin'
+  duration: 'April 15–May 16, 2012'
+  related_work: ""
+  related_media: W_0031
+  related_: ""
+  upcoming: false
+-
+  id: E_0017
+  title: '(Re)locating the Self'
+  translation: ""
+  year: '2012'
+  type: 'Group'
+  venue: 'Kunstsaele Berlin, Berlin'
+  duration: 'January 24–February 1, 2012'
+  related_work: ""
+  related_media: W_0033
+  related_: ""
+  upcoming: false
+-
+  id: E_0019
+  title: 'Bilateral, Diagonal, Cubical'
+  translation: ""
+  year: 2012–2013
+  type: 'Solo'
+  venue: 'Aanant & Zoo, Berlin'
+  duration: 'December 15, 2012–January 26, 2013'
+  related_work: ""
+  related_media: "W_0030; W_0039; W_0040;  W_0054; W_0056; W_0057"
+  related_: P_0047
+  upcoming: false
+-
+  id: E_0023
+  title: 'Conceptual Tendencies: 1960s to Today, Part II, Body Space, Volume'
+  translation: ""
+  year: '2013'
+  type: 'Group '
+  venue: 'Daimler Contemporary, Berlin'
+  duration: 'April 19–September 22, 2013'
+  related_work: ""
+  related_media: W_0054
+  related_: P_0032
+  upcoming: false
+-
+  id: E_0022
+  title: 'Auch heute'
+  translation: ""
+  year: '2013'
+  type: 'Group '
+  venue: 'Kunstsaele Berlin, Berlin'
+  duration: 'February 22–April 13, 2013'
+  related_work: ""
+  related_media: W_0011
+  related_: ""
+  upcoming: false
+-
+  id: E_0020
+  title: 'Défilé des ombres'
+  translation: ""
+  year: '2013'
+  type: 'Group '
+  venue: 'Werkleitz Festival, Halle an der Saale'
+  duration: ""
+  related_work: ""
+  related_media: W_0014
+  related_: "E_0008; E_0009; E_0011;  E_0012; E_0021"
+  upcoming: false
+-
+  id: E_0021
+  title: 'Défilé des ombres'
+  translation: ""
+  year: '2013'
+  type: 'Group '
+  venue: 'ikonotv.art, Berlin'
+  duration: ""
+  related_work: ""
+  related_media: W_0014
+  related_: "E_0008; E_0009; E_0011;  E_0012; E_0020"
+  upcoming: false
+-
+  id: E_0024
+  title: 'Arts Faculty: The '
+  translation: ""
+  year: '2015'
+  type: 'Group '
+  venue: 'The Arts Center Project Space, Abu Dhabi'
+  duration: 'November 6–November 26, 2015'
+  related_work: ""
+  related_media: W_0086
+  related_: P_0034
+  upcoming: false
+-
+  id: E_0026
+  title: 'Pandora’s Box'
+  translation: ""
+  year: '2016'
+  type: 'Solo'
+  venue: 'The Arts Center Project Space, Abu Dhabi'
+  duration: 'January 20–February 6, 2016'
+  related_work: ""
+  related_media: 'W_0094; W_0097'
+  related_: P_0045
+  upcoming: false
+-
+  id: E_0025
+  title: 'In situ: A Sequence of Works'
+  translation: ""
+  year: '2016'
+  type: 'Solo'
+  venue: 'Warehouse Tegel, Berlin'
+  duration: ""
+  related_work: ""
+  related_media: "W_0021; W_0035; W_0054;  W_0056; W_0071; W_0072; W_0073; W_0074; W_0075; W_0076; W_0077; W_0078; W_0079; W_0080; W_0084; W_0087; W_0089; W_0090; W_0091; W_0093; W_0094"
+  related_: ""
+  upcoming: false
+-
+  id: E_0027
+  title: 'Y8 Square Editions'
+  translation: ""
+  year: '2016'
+  type: 'Group '
+  venue: 'Y8, Hamburg'
+  duration: 'July 17–September 25, 2016'
+  related_work: ""
+  related_media: W_0033
+  related_: "E_0013"
+  upcoming: false
+-
+  id: E_0028
+  title: 'Collectivity: Objects and Associations in the U.A.E. Art World'
+  translation: ""
+  year: '2017'
+  type: 'Group '
+  venue: 'Maraya Art Center, Sharjah'
+  duration: 'June 15–August 19, 2017'
+  related_work: ""
+  related_media: W_0092
+  related_: P_0037
+  upcoming: false
+-
+  id: E_0029
+  title: "Kosmose "
+  translation: ""
+  year: '2018'
+  type: 'Group '
+  venue: 'Rechenzentrum, Potsdam'
+  duration: 'January 12–January 28, 2018'
+  related_work: ""
+  related_media: W_0019
+  related_: ""
+  upcoming: false
+-
+  id: E_0030
+  title: 'Putting for Pleasure and Politics: A Playable Sculpture Garden'
+  translation: ""
+  year: '2018'
+  type: 'Group '
+  venue: 'The East Plaza, The Arts Center at NYU, Abu Dhabi'
+  duration: 'November 12–November 25, 2018'
+  related_work: ""
+  related_media: W_0112
+  related_: "E_0032"
+  upcoming: false
+-
+  id: E_0031
+  title: 'Plastic Fantastic'
+  translation: ""
+  year: '2018'
+  type: 'Group '
+  venue: 'The Arts Center Project Space Abu Dhabi, Abu Dhabi'
+  duration: 'December 16–December 19, 2018.'
+  related_work: ""
+  related_media: W_0113
+  related_: ""
+  upcoming: false
+-
+  id: E_0032
+  title: 'Putting for Pleasure and Politics: A Playable Sculpture Garden'
+  translation: ""
+  year: '2019'
+  type: 'Group '
+  venue: 'Quiz Arts Festival, Alserkal Avenue, Dubai'
+  duration: 'January 25–January 26, 2019'
+  related_work: ""
+  related_media: W_0112
+  related_: "E_0030"
+  upcoming: false

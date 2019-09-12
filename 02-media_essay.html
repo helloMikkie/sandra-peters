@@ -1,0 +1,24 @@
+---
+title: Media
+tag: Essay
+link: '02-media_essay.html'
+toplevel: '02-media.html'
+layout: page-sublevel
+---
+
+
+<main class="page-wrapper">
+  
+  <section class="grid">
+  {% for media in site.data.media %}
+    {% if media.tag == "Essay" %}
+    
+    {% include media-item-essay.html %}
+
+  {% endif %}
+  {% endfor %}
+
+</section>
+</main>
+
+{% include bar-tags_media.html %}

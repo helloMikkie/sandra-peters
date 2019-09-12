@@ -1,0 +1,782 @@
+-
+  id: P_0001
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Book
+  title: 'Zeichnung heute V: Sandra Peters'
+  text: ""
+  year: '2007'
+  publisher: 'Kunstmuseum Bonn'
+  location: Bonn
+  related_exhibition: E_0001
+  news: true
+  image: 'images/publication/P_0001/P_0001_thumbnail.jpg'
+-
+  id: P_0003
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Article
+  title: 'Reise in die Unendlichkeit'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Integer'
+  year: '2007'
+  author: 'Thomas Kliemann'
+  published_in: 'General-Anzeiger Bonn'
+  related_work: 'W_0007; W_0008; W_0009; W_0010; W_0011'
+  related_media: ""
+  related_exhibition: ""
+  news: true
+-
+  id: P_0002
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Article
+  title: 'Offene Ateliers beim Bonner Kunstverein'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna.'
+  year: '2007'
+  author: 'Christina zu Mecklenburg'
+  published_in: 'General-Anzeiger Bonn'
+-
+  id: P_0004
+  tag: Publication
+  link: 02-media_detail-publication
+  type: 'Artist’s Book'
+  title: 'Modifikation–stetig steigende Steine'
+  text: ""
+  year: '2008'
+  author: 'Sandra Peters'
+  translation: "Modification–constantly climbing stones"
+  publisher: Self-published
+  location: Berlin
+  published_in: ""
+  related_work: 'W_0017; W_0018; W_0019'
+  related_media: ""
+  related_exhibition: ""
+  image: 'images/placeholder/square.jpg'
+-
+  id: P_0005
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Monograph
+  title: 'Sandra Peters: Modifikation–stetig steigende Steine'
+  text: ""
+  year: '2009'
+  translation: ""
+  publisher: 'Kunstverein Ruhr'
+  location: Essen
+  related_work: 'W_0017; W_0018; W_0019'
+  related_media: 'P_0007; P_0008; P_0009'
+  related_exhibition: E_0004
+  image: 'images/publication/P_0005/P_0005_thumbnail.jpg'
+-
+  id: P_0006
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Book
+  title: 'Selected Artists: Stipendiatinnen und Stipendiaten des Arbeitsstipendiums für Bildende Kunst des Berliner Senats'
+  text: ""
+  year: '2009'
+  translation: ""
+  publisher: 'Neue Gesellschaft für Bildende Kunst'
+  location: Berlin
+  related_work: W_0014
+  related_media: ""
+  related_exhibition: E_0003
+  image: 'images/placeholder/square.jpg'
+-
+  id: P_0010
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Book
+  title: 'Zeigen: Eine Audiotour durch Berlin von Karin Sander'
+  text: ""
+  year: '2009'
+  translation: ""
+  publisher: 'Verlag der Buchhandlung Walther König'
+  location: Cologne
+  published_in: ""
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0009
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Essay
+  title: 'Ornament in the White Cube: Sandra Peters’ Architectual Sculptures'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.'
+  year: '2009'
+  author: 'Hubertus Butin'
+  translation: 'Das Ornament im White Cube: Sandra Peters’ architektonische Skulpturen'
+  publisher: 'Kunstverein Ruhr'
+  location: Essen
+  published_in: 'Sandra Peters: Modifikation–stetig steigende Steine'
+  related_work: ""
+  related_media: P_0005
+  related_exhibition: ""
+-
+  id: P_0013
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Article
+  title: 'Brancusi in Essen?'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.'
+  year: '2009'
+  author: 'Jan Friedrich'
+  translation: ""
+  publisher: ""
+  location: ""
+  published_in: Bauwelt
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0007
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Essay
+  title: 'New Correspondences for Old Patterns'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna.'
+  year: '2009'
+  author: 'Peter Friese'
+  translation: 'Neue Korrespondenzen für alte Muster'
+  publisher: 'Kunstverein Ruhr'
+  location: Essen
+  published_in: 'Sandra Peters: Modifikation–stetig steigende Steine'
+  related_work: ""
+  related_media: P_0005
+  related_exhibition: ""
+-
+  id: P_0011
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Article
+  title: 'Raumkontraste in Licht und Schatten'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.'
+  year: '2009'
+  author: "Gabriele Hauger"
+  translation: ""
+  publisher: ""
+  location: ""
+  published_in: 'Oberbadische Zeitung'
+  related_work: W_0020
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0015
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Article
+  title: 'Der Kampf um die rechte Fom'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.'
+  year: '2009'
+  author: 'Marcus John'
+  translation: ""
+  publisher: ""
+  location: ""
+  published_in: 'Westdeutsche Allgemeine Zeitung'
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0008
+  tag: Writing
+  link: ""
+  type: Essay
+  title: 'Modification–Constantly Climbing Stones'
+  text: ""
+  year: '2009'
+  author: 'Sandra Peters'
+  translation: 'Modifikation–stetig steigende Steine'
+  publisher: 'Kunstverein Ruhr'
+  location: Essen
+  published_in: 'Sandra Peters: Modifikation–stetig steigende Steine'
+  related_work: ""
+  related_media: P_0005
+  related_exhibition: ""
+-
+  id: P_0012
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Article
+  title: 'Ein Katalysator neuer Qualitäten'
+  text: 'Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.'
+  year: '2009'
+  author: 'Barbara Ruda'
+  translation: ""
+  publisher: ""
+  location: ""
+  published_in: 'Badische Zeitung'
+  related_work: W_0013
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0014
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Article
+  title: 'Kunstwerk auf Zeit in der Villa Aichele'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.'
+  year: '2009'
+  author: 'Barbara Ruda'
+  translation: ""
+  publisher: ""
+  location: ""
+  published_in: 'Badische Zeitung'
+  related_work: W_0020
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0016
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Monograph
+  title: 'Brick Fabric: An Installation by Sandra Peters'
+  text: ""
+  year: '2010'
+  translation: 'Steingewebe: Eine Installation von Sandra Peters'
+  publisher: Self-published
+  location: Berlin
+  published_in: ""
+  related_work: 'W_0014; W_0017; W_0020'
+  related_media: P_0021
+  related_exhibition: E_0005
+  image: 'images/publication/P_0016/P_0016_thumbnail.jpg'
+-
+  id: P_0018
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Monograph
+  title: 'Sandra Peters: Défilé des ombres–Passage d’image'
+  text: ""
+  year: '2010'
+  translation: ""
+  publisher: Self-published
+  location: Berlin
+  published_in: ""
+  related_work: 'W_0007; W_0008; W_0009; W_0010; W_0011; W_0014'
+  related_media: ""
+  related_exhibition: ""
+  image: 'images/publication/P_0018/P_0018_thumbnail.jpg'
+-
+  id: P_0022
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Book
+  title: '40. Internationales Forum des jungen Films, 60. Internationale Filmfestspiele Berlin'
+  text: ""
+  year: '2010'
+  translation: ""
+  publisher: 'Arsenal–Institut für Film und Videokunst e.V.'
+  location: Berlin
+  published_in: ""
+  related_work: ""
+  related_media: P_0023
+  related_exhibition: ""
+-
+  id: P_0019
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Essay
+  title: 'Schatten, Spuren, Mythen: Zur Videoarbeit Défilé des ombres von Sandra Peters'
+  text: 'Maecenas sed diam eget risus varius blandit sit amet non magna. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.'
+  year: '2010'
+  author: 'Marc Glöde'
+  translation: "Shadows, Traces, Myths: On Sandra Peter’s Défilé des ombres"
+  publisher: Self-published
+  location: Berlin
+  published_in: 'Défilé des ombres–Passage d’images'
+  related_work: ""
+  related_media: P_0018
+  related_exhibition: ""
+-
+  id: P_0021
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Interview
+  title: 'Art, Architecture, and Film in Discussion'
+  text: ""
+  year: '2010'
+  author: 'Marc Glöde'
+  translation: 'Kunst, Architektur und Film im Gespräch'
+  publisher: Self-published
+  location: Berlin
+  published_in: 'Steingewebe: Eine Installation von Sandra Peters/Brick Fabric: An Installation by Sandra Peters'
+  related_work: ""
+  related_media: P_0016
+  related_exhibition: ""
+  news: true
+-
+  id: P_0024
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Article
+  title: 'Bildstrecke: Défilé des ombres–Passage d’images'
+  text: ""
+  year: '2010'
+  author: 'Sandra Peters'
+  translation: ""
+  publisher: ""
+  location: ""
+  published_in: 'Texte zur Kunst'
+  related_work: W_0014
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0023
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Essay
+  title: 'Défilé des ombres'
+  text: ""
+  year: '2010'
+  author: 'Sandra Peters'
+  translation: ""
+  publisher: 'Arsenal–Institut für Film und Videokunst e.V.'
+  location: Berlin
+  published_in: '40. Internationales Forum des jungen Films, 60. Internationale Filmfestspiele Berlin'
+  related_work: ""
+  related_media: P_0022
+  related_exhibition: E_0009
+-
+  id: P_0020
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Essay
+  title: 'Défilé des ombres–Passage d’images: A Film by Sandra Peters'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.'
+  year: '2010'
+  author: 'Gregor Stemmrich'
+  translation: ""
+  publisher: Self-published
+  location: Berlin
+  published_in: 'Défilé des ombres–Passage d’images'
+  related_work: ""
+  related_media: P_0018
+  related_exhibition: ""
+-
+  id: P_0027
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Monograph
+  title: 'Sandra Peters'
+  text: ""
+  year: '2011'
+  translation: ""
+  publisher: 'Aanant & Zoo'
+  location: Berlin
+  published_in: ""
+  related_work: 'W_0027; W_0028; W_0029; W_0034'
+  related_media: P_0026
+  related_exhibition: E_0015
+  image: 'images/publication/P_0027/P_0027_thumbnail.jpg'
+-
+  id: P_0025
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Article
+  title: 'flux balance / rotating wings'
+  text: ""
+  year: '2011'
+  author: 'Sandra Peters'
+  translation: ""
+  publisher: ""
+  location: ""
+  published_in: 'MAK/ZINE: Applied Arts,Architecture,Design'
+  related_work: W_0030
+  related_media: ""
+  related_exhibition: E_0016
+-
+  id: P_0026
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Essay
+  title: 'borrowed window'
+  text: ""
+  year: '2011'
+  author: 'Sandra Peters'
+  translation: ""
+  publisher: 'Aanant & Zoo'
+  location: Berlin
+  published_in: 'Sandra Peters'
+  related_work: ""
+  related_media: P_0027
+  related_exhibition: ""
+-
+  id: P_0028
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Essay
+  title: 'sound column : circling sound'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam.'
+  year: '2011'
+  author: 'Gregor Stemmrich'
+  translation: ""
+  publisher: 'Aanant & Zoo'
+  location: Berlin
+  published_in: 'Sandra Peters'
+  related_work: ""
+  related_media: P_0027
+  related_exhibition: ""
+-
+  id: P_0029
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Monograph
+  title: 'Sound Column : Circling Sound'
+  text: ""
+  year: '2011'
+  author: 'Gregor Stemmrich'
+  translation: ""
+  publisher: Self-published
+  location: Berlin
+  published_in: ""
+  related_work: W_0028
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0030
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Article
+  title: 'Transferleistung: Sandra Peters in den Kunstsaelen Berlin'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.'
+  year: '2012'
+  author: 'Fiona McGovern'
+  translation: ""
+  publisher: ""
+  location: ""
+  published_in: 'Texte zur Kunst'
+  related_work: 'W_0018; W_0027; W_0033; W_0034; '
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0032
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Book
+  title: 'Conceptual Tendencies 1960s to Today II: Body, Space, Volume'
+  text: ""
+  year: '2013'
+  translation: ""
+  publisher: 'Daimler Contemporary'
+  location: Berlin
+  published_in: ""
+  related_work: W_0055
+  related_media: P_0031
+  related_exhibition: E_0023
+-
+  id: P_0033
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Book
+  title: 'Kunst - Begriffe der Gegenwart. Von Allegorie bis Zip'
+  text: ""
+  year: '2013'
+  translation: ""
+  publisher: 'Verlag der Buchhandlung Walther König'
+  location: Cologne
+  published_in: ""
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0031
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Essay
+  title: 'Conceptual Tendencies 1960s to Today II: Body, Space, Volume'
+  text: ""
+  year: '2013'
+  author: 'Sandra Peters'
+  translation: ""
+  publisher: 'Daimler Contemporary'
+  location: Berlin
+  published_in: ""
+  related_work: ""
+  related_media: P_0032
+  related_exhibition: ""
+-
+  id: P_0034
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Interview
+  title: 'Sandra Peters: Untitled (Wandering Spirit)'
+  text: ""
+  year: '2015'
+  translation: ""
+  publisher: 'New York University Abu Dhabi'
+  location: 'Abu Dhabi'
+  published_in: 'Arts Faculty: The Exhibition'
+  related_work: W_0086
+  related_media: ""
+  related_exhibition: E_0024
+-
+  id: P_0035
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Essay
+  title: 'Proposals: Sandra Peters, north kings road, intricate structure'
+  text: ""
+  year: '2015'
+  author: 'Sandra Peters'
+  translation: ""
+  publisher: 'MAK Center for Art and Architecture'
+  location: 'Los Angeles'
+  published_in: 'Schindler Lab'
+  related_work: 'W_0059; W_0060'
+  related_media: 'https://schindlerlab.org/proposal/sandra-peters/'
+  related_exhibition: ""
+-
+  id: P_0036
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Monograph
+  title: 'Pandora’s Box'
+  text: ""
+  year: '2016'
+  translation: ""
+  publisher: 'New York University Abu Dhabi'
+  location: 'Abu Dhabi'
+  published_in: 'Exhibition brochure, Arts Center Project Space'
+  related_work: 'W_0094; W_0095'
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0037
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Book
+  title: 'Collectivity: Objects and Associations in the U.A.E. Art World'
+  text: ""
+  year: '2017'
+  translation: ""
+  publisher: 'Maraya Art Center'
+  location: Sharjah
+  published_in: ' '
+  related_work: W_0092
+  related_media: ""
+  related_exhibition: E_0028
+-
+  id: P_0038
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Article
+  title: 'Über Kunst lässt sich gut streiten'
+  text: 'Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.'
+  year: '2017'
+  author: 'Barbara Ruda'
+  translation: ""
+  publisher: ""
+  location: ""
+  published_in: Südkurier
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0040
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Monograph
+  title: 'Per/TRANS: Performing the Cube, Transforming the Cube. Works by Sandra Peters, 1998–2017'
+  text: ""
+  year: '2018'
+  translation: ""
+  publisher: 'VfmK Verlag für moderne Kunst'
+  location: Vienna
+  published_in: ""
+  related_work: "W_0001; W_0002: W_0003; W_0004; W_0005; W_0006; W_0017; W_0018; W_0019; W_0032; W_0034; W_0035; W_0036; W_0037; W_0054; W_0056; W_0057; W_0061; W_0062; W_0063; W_0064; W_0065; W_0066; W_0067; W_0068; W_0069; W_0083\nW_0112; W_0111; W_0113; W_0060; W_0059; W_0093; W_0094; W_0096; W_0071; W_0072; W_0073; W_0074; W_0075; W_0076; W_0078\nW_0077; W_0079; W_0080\nW_0007; W_0008; W_0009\nW_0010; W_0011; W_0012\nW_0013; W_0041; W_0042\nW_0043; W_0044; W_0045\nW_0046; W_0047; W_0048\nW_0049; W_0050; W_0051\nW_0052; W_0053; W_0030\nW_0039; W_0070; W_0024\nW_0025;W_0084; W_0085; W_0027; W_0029; W_0028; W_0089; W_0090; W_0086; W_0087; W_0081; W_0091; W_0092;  W_0095; W_0097; W_0098; W_0099; W_0100; W_0101; W_0102; W_0103; W_0104; W_0105; W_0106; W_0107; W_0108; W_0109; W_0110"
+  related_media: 'P_0039; P_0041; P_0042; P_0043'
+  related_exhibition: ""
+  image: 'images/publication/P_0040/P_0040_thumbnail.jpg'
+-
+  id: P_0041
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Essay
+  title: 'Per/TRANS: Performing the Cube, Transforming the Cube. Works by Sandra Peters, 1998–2017'
+  text: 'Nullam quis risus eget urna mollis ornare vel eu leo. Donec id elit non mi porta gravida at eget metus.'
+  year: '2018'
+  author: 'Michael Ned Holte'
+  translation: 'Learning from Los Angeles'
+  publisher: 'VfmK Verlag für moderne Kunst'
+  location: Vienna
+  published_in: ""
+  related_work: ""
+  related_media: P_0040
+  related_exhibition: ""
+-
+  id: P_0042
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Essay
+  title: 'Per/TRANS: Performing the Cube, Transforming the Cube. Works by Sandra Peters, 1998–2017'
+  text: 'Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec id elit non mi porta gravida at eget metus.'
+  year: '2018'
+  author: 'Fiona McGovern'
+  translation: Architecture–Sculpture–Sound
+  publisher: 'VfmK Verlag für moderne Kunst'
+  location: Vienna
+  published_in: ""
+  related_work: ""
+  related_media: P_0040
+  related_exhibition: ""
+-
+  id: P_0044
+  tag: Publication
+  link: 02-media_detail-publication
+  type: Monograph
+  title: 'Spacial Thinking: On the Work of Sandra Peters'
+  text: ""
+  year: '2018'
+  author: 'Eva Meyer-Hermann'
+  translation: "Räumliches Denken: Zum Werk von Sandra Peters"
+  publisher: Motto
+  location: Berlin
+  published_in: ""
+  related_work: 'W_0017; W_0040; W_0081; W_0083; W_0087; W_0090; W_0091; W_0093; W_0094; W_0103; W_0104; W_0105; W_0106; W_0107; W_0108; W_0110; '
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0039
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Essay
+  title: 'Per/TRANS: Performing the Cube, Transforming the Cube. Works by Sandra Peters, 1998–2017'
+  text: ""
+  year: '2018'
+  author: 'Sandra Peters'
+  translation: 'In Dialogue: Art–Architecture / Sandra Peters–Rudolph Schindler'
+  publisher: 'VfmK Verlag für moderne Kunst'
+  location: Vienna
+  published_in: ""
+  related_work: ""
+  related_media: P_0040
+  related_exhibition: ""
+-
+  id: P_0043
+  tag: Essay
+  link: 02-media_detail-essay.html
+  type: Essay
+  title: 'Per/TRANS: Performing the Cube, Transforming the Cube. Works by Sandra Peters, 1998–2017'
+  text: 'Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit.'
+  year: '2018'
+  author: 'Gregor Stemmrich'
+  translation: 'Histroy and Heritage: His Story and Her Restaging: On Sandra Peter’s Sculpture'
+  publisher: 'VfmK Verlag für moderne Kunst'
+  location: Vienna
+  published_in: ""
+  related_work: ""
+  related_media: P_0040
+  related_exhibition: ""
+-
+  id: P_0045
+  tag: Video
+  link: 02-media_detail-video
+  type: Video
+  title: 'Time Lapse for Sandra Peters´ “Untitled Wall Drawing“'
+  text: ""
+  year: '2016'
+  translation: ""
+  publisher: 'https://vimeo.com/153087852'
+  location: ""
+  published_in: ""
+  related_work: W_0097
+  related_media: ""
+  related_exhibition: E_0026
+  news: true
+-
+  id: P_0046
+  tag: Video
+  link: 02-media_detail-video
+  type: Interview
+  title: 'The Conversation: Sculpture & Architecture with Sandra Peters'
+  text: ""
+  year: '2015'
+  author: 'Matthew Corcoran'
+  translation: ""
+  publisher: 'https://www.youtube.com/watch?v=Q8cZzdWTERU'
+  location: "New York University Abu Dhabi"
+  published_in: ""
+  related_work: ""
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0047
+  tag: Video
+  link: 02-media_detail-video
+  type: Video
+  title: 'Sandra Peters: Bilateral, Cubical, Diagonal at Aanant & Zoo Gallery, Berlin'
+  text: ""
+  year: '2012'
+  author: 'Frantisek Zachoval'
+  translation: ""
+  publisher: 'https://www.youtube.com/watch?v=-i5s9OTURXw&t=122s'
+  location: "Aanant & Zoo Gallery Berlin"
+  published_in: ""
+  related_work: ""
+  related_media: ""
+  related_exhibition: E_0019
+-
+  id: P_0048
+  tag: Essay
+  link: 02-media_detail-essay
+  type: Essay
+  title: 'Zeichen, Zeichnen, Zeit'
+  text: ""
+  year: '2007'
+  author: 'Gregor Stemmrich'
+  translation: ""
+  publisher: Kunstmuseum Bonn
+  location: ""
+  published_in: "Zeichnung heute V: Sandra Peters"
+  related_work: W_0007
+  related_media: ""
+  related_exhibition: E_0001
+-
+  id: P_0050
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Article
+  title: 'Brick Fabric: An Installation by Sandra Peters'
+  text: ""
+  year: '2009'
+  author: 'Sandra Peters'
+  translation: ""
+  publisher: Self-published
+  location: ""
+  published_in: "Sandra Peters: Défilé des ombres–Passage d’images."
+  related_work: W_0020
+  related_media: ""
+  related_exhibition: ""
+-
+  id: P_0051
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Essay
+  title: 'Zabriskie Point, 2013 (unrealized)'
+  text: ""
+  year: '2018'
+  author: 'Sandra Peters'
+  translation: ""
+  publisher: "VfmK Verlag für moderne Kunst"
+  location: "Vienna"
+  published_in: "Per/TRANS: Performing the Cube, Transforming the Cube. Works by Sandra Peters, 1998–2017"
+  related_work: W_0081
+  related_media: P_0040
+  related_exhibition: ""
+-
+  id: P_0052
+  tag: Writing
+  link: 02-media_detail-writing
+  type: Essay
+  title: 'Flux Balance / Rotating Wings, 2010, Within : Without, 2011, Ahoy, 2013'
+  text: ""
+  year: '2018'
+  author: 'Sandra Peters'
+  translation: ""
+  publisher: "VfmK Verlag für moderne Kunst"
+  location: "Vienna"
+  published_in: "Per/TRANS: Performing the Cube, Transforming the Cube. Works by Sandra Peters, 1998–2017"
+  related_work: W_0030; W_0039; W_0070
+  related_media: P_0040
+  related_exhibition: ""

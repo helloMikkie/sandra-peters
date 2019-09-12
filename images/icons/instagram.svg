@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>instagram</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="instagram" transform="translate(1.000000, 1.000000)" stroke-width="2">
+            <rect id="Rectangle" stroke="#131313" x="0" y="0" width="30" height="30" rx="5"></rect>
+            <path d="M21.9239631,13.9733195 C22.3669111,16.9604098 20.8442982,19.8948292 18.1469487,21.2524805 C15.4495993,22.6101318 12.185657,22.0849193 10.0503689,19.9496311 C7.91508073,17.814343 7.38986819,14.5504007 8.74751948,11.8530513 C10.1051708,9.15570185 13.0395902,7.63308892 16.0266805,8.07603686 C19.0767774,8.52832791 21.4716721,10.9232226 21.9239631,13.9733195 Z" id="Path" stroke="#131313"></path>
+            <path d="M22.5,7.5 L22.5,7.5" id="Path" stroke="#000000"></path>
+        </g>
+    </g>
+</svg>

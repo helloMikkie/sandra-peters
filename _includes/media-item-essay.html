@@ -1,0 +1,14 @@
+<article class="item_essay">
+	<a href="02-media_essay.html" class="tag">Essay</a>
+	<h2><a href="{{ media.link }}">{{media.title}}</a></h2>
+
+
+	<p class="item-text">{{ media.text }}</p>
+	<p class="item-subline">{{media.type}} 
+			{% if media.author %}
+			<span>by <span class="item-author">{{media.author}}</span></span>
+			{% else %}
+			<span> </span>
+			{% endif %} 
+		</p>
+</article>

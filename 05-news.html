@@ -1,0 +1,66 @@
+---
+title: News
+layout: page
+---
+
+<section class="page-wrapper">
+<article class="grid">
+
+        {% for work in site.data.work %}
+        {% if work.news == true %}
+    
+            {% include work-item.html %}
+    
+        {% endif %}
+        {% endfor %}
+
+        {% for exhibition in site.data.exhibition %}
+        {% if exhibition.news == true %}
+    
+            {% include exhibition-item.html %}
+    
+        {% endif %}
+        {% endfor %}
+
+
+
+        {% for media in site.data.media %}
+
+            {% if media.news == true and media.tag == 'Publication' %}
+    
+            {% include media-item-publication.html %}
+
+            {% endif %}
+            {% endfor %}  
+
+            {% for media in site.data.media %}
+
+            {% if media.news == true and media.tag == 'Essay' %}
+    
+            {% include media-item-essay.html %}
+
+            {% endif %}
+            {% endfor %}
+
+            {% for media in site.data.media %}
+
+            {% if media.news == true and media.tag == 'Video' %}
+    
+            {% include media-item-video.html %}
+
+            {% endif %}
+            {% endfor %}
+
+            {% for media in site.data.media %}
+
+            {% if media.news == true and media.tag == 'Writing' %}
+    
+            {% include media-item-writing.html %}
+
+            {% endif %}
+            {% endfor %}
+
+
+</article>
+</section>
+
