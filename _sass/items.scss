@@ -125,10 +125,10 @@
 
 /*  Writing  */ 
 
+
 .item_writing {
 	padding: 1rem;
 	// background-image: linear-gradient(144deg, #3F3F3F 0%, #363636 14%, #131313 38%);
-	background-image: linear-gradient(144deg, rgb(226, 230, 44) 0%, #363636 14%, #131313 38%);
 	max-width: 100%;
 	max-height: 100%;
 	display: flex;
@@ -155,6 +155,21 @@
 		
 	}
 }
+
+// orange: #c47500
+// violet: #5200af
+// blau: #0a0091 
+// blau dunkel: #011f58
+
+// Parameter: 	background-image: linear-gradient(135deg, #0a0091  0%, #0a0091  15%, #131313 30%);
+
+.alternative-yellow{
+	// background-image: linear-gradient(135deg, #17a0b8 0%, #17a0b8 20%, transparent 20%);
+	background-image: linear-gradient(135deg, #0a0091  0%, #0a0091  20%, #131313 40%);
+	
+}
+
+
 
 /*  Video  */ 
 
