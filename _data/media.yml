@@ -55,12 +55,11 @@
 -
   id: P_0005
   tag: Publication
-  link: 02-media_detail-publication
+  link: 02-media_detail-publication_P_0005.html
   type: Monograph
   title: 'Sandra Peters: Modifikation–stetig steigende Steine'
   text: ""
   year: '2009'
-  translation: ""
   publisher: 'Kunstverein Ruhr'
   location: Essen
   related_work: 'W_0017; W_0018; W_0019'
@@ -575,15 +574,13 @@
 -
   id: P_0040
   tag: Publication
-  link: 02-media_detail-publication
+  link: 02-media_detail-publication_P_0040
   type: Monograph
   title: 'Per/TRANS: Performing the Cube, Transforming the Cube. Works by Sandra Peters, 1998–2017'
   text: ""
   year: '2018'
-  translation: ""
   publisher: 'VfmK Verlag für moderne Kunst'
   location: Vienna
-  published_in: ""
   related_work: "W_0001; W_0002: W_0003; W_0004; W_0005; W_0006; W_0017; W_0018; W_0019; W_0032; W_0034; W_0035; W_0036; W_0037; W_0054; W_0056; W_0057; W_0061; W_0062; W_0063; W_0064; W_0065; W_0066; W_0067; W_0068; W_0069; W_0083\nW_0112; W_0111; W_0113; W_0060; W_0059; W_0093; W_0094; W_0096; W_0071; W_0072; W_0073; W_0074; W_0075; W_0076; W_0078\nW_0077; W_0079; W_0080\nW_0007; W_0008; W_0009\nW_0010; W_0011; W_0012\nW_0013; W_0041; W_0042\nW_0043; W_0044; W_0045\nW_0046; W_0047; W_0048\nW_0049; W_0050; W_0051\nW_0052; W_0053; W_0030\nW_0039; W_0070; W_0024\nW_0025;W_0084; W_0085; W_0027; W_0029; W_0028; W_0089; W_0090; W_0086; W_0087; W_0081; W_0091; W_0092;  W_0095; W_0097; W_0098; W_0099; W_0100; W_0101; W_0102; W_0103; W_0104; W_0105; W_0106; W_0107; W_0108; W_0109; W_0110"
   related_media: 'P_0039; P_0041; P_0042; P_0043'
   related_exhibition: ""

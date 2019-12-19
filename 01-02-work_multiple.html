@@ -1,5 +1,5 @@
 ---
-title: Work
+title: Works
 tag: Multiple
 link: '01-02-work_multiple.html'
 toplevel: '01-work.html'
@@ -9,7 +9,10 @@ layout: page-sublevel
 
 <section class="page-wrapper">
 
-<article class="grid">
+    <article class="masonry-grid">
+
+        <div class="grid-sizer"></div>
+        <div class="gutter-sizer"></div>
     {% for work in site.data.work %}
     {% if work.tag == "Multiple" %}
 

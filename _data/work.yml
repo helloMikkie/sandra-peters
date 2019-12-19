@@ -11,6 +11,7 @@
   related_media: ""
   related_exhibition: 'E_0013; E_0018'
   news: true
+  featured: true
   image: 'images/work/W_0031/W_0031_Untitled-Frame.jpg'
 -
   id: W_0032
@@ -55,6 +56,7 @@
   related_work: W_0110
   related_media: P_0040
   related_exhibition: ""
+  featured: true
 -
   id: W_0110
   tag: Sculpture
@@ -153,6 +155,7 @@
   related_work: W_0021
   related_media: 'P_0011; P_0014; P_0016'
   related_exhibition: E_0005
+  featured: true
 -
   id: W_0021
   tag: Model
@@ -265,6 +268,7 @@
   related_work: ""
   related_media: ' P_0040'
   related_exhibition: ""
+  featured: true
 -
   id: W_0054
   tag: Sculpture
@@ -340,7 +344,7 @@
   tag: Installation
   filter: 01-02-work_installation.html
   image: images/work/W_0017/W_0017_Modifikation_8web.jpg
-  link: 01-work_detail.html
+  link: 01-work_detail_W_0017.html
   title: 'Modification—Constantly Climbing Stones'
   translation: 'Modifikation––stetig steigende Steine'
   year: '2009'
@@ -391,6 +395,7 @@
   related_work: ""
   related_media: ' P_0040'
   related_exhibition: ""
+  featured: true
 -
   id: W_0023
   tag: Installation
@@ -550,9 +555,8 @@
   tag: 'Glass Work'
   filter: 01-02-work_glass-work.html
   image: images/work/W_0093/W_0093_Move_1a.jpg
-  link: 01-work_detail.html
+  link: 01-work_detail_W_0093.html
   title: 'On the Move––In Circles'
-  translation: ""
   year: '2016'
   material: '16 double-sided silk-screen prints on and behind glass, Edition of 3'
   dimension: 'Each 56.9 x 42 x 0.4 cm'
@@ -830,9 +834,8 @@
   tag: Audio
   filter: 01-02-work_audio.html
   image: images/work/W_0027/W_0027 Sound_Column_01.jpg
-  link: 01-work_detail.html
+  link: 01-work_detail_W_0027.html
   title: 'Sound Column : Circling Sound'
-  translation: ""
   year: '2010'
   material: '8 channel sound installation, speakers suspended from the ceiling in a circle ,16:00 minutes duration'
   dimension: 'Dimensions variable'

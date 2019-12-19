@@ -1,0 +1,106 @@
+---
+title: Modification—Constantly Climbing Stones
+template: Work
+tag: Installation
+link: "01-02-work_installation.html"
+toplevel: "01-work.html"
+layout: page-detail
+---
+
+<section class="detail-header">
+	<h1 class="header-title">{{ page.title }}</h1>
+</section>
+
+<!--  Pseudo-Slider  -->
+
+{% include pseudo-slider_W_0017.html %}
+
+<main class="page-wrapper">
+
+	<section class="sidebar-container">
+
+			<article class="sidebar-left">
+				{% for work in site.data.work %} {% if work.id == 'W_0017' %}
+
+					{% if work.translation %}
+						<p>{{work.translation}}</p>
+					{% endif %}
+
+					{% if work.material %}
+						<p>{{work.material}}</p>
+					{% endif %}
+
+					{% if work.dimension %}
+						<p>{{work.dimension}}</p>
+					{% endif %}
+
+					{% if work.year %}
+						<p>{{work.year}}</p>
+					{% endif %}
+					<p class="share"> <span>Share</span><a href="#" class="tag">sandra-peters/{{work.id}}</a></p> 
+
+
+				{% endif %} {% endfor %}
+			</article>
+			<article class="sidebar-right essay-body">
+				{{ site.text | where:"title" , "W_0017" }}
+	</section>
+
+
+<!-- Related -->
+
+	<h2 class="related">Related</h2>
+	<section class="grid">
+
+<!-- work item -->
+		{% for work in site.data.work %} 
+		{% if work.id == "W_0018" or work.id == "W_0019" %}
+
+			{% include work-item.html %}
+
+		{% endif %} 
+		{% endfor %} 
+
+<!-- media: publication item  -->
+		{% for media in site.data.media %} 
+		{% if media.id == 'P_0004' and media.tag == 'Publication' %}
+
+			{% include media-item-publication.html %}
+
+		{% endif %} {% endfor %} 
+
+<!-- media: essay item  -->
+{% for media in site.data.media %} 
+{% if media.id == 'P_0030'  and media.tag == 'Essay' %}
+
+	{% include media-item-essay.html %}
+
+{% endif %} {% endfor %} 
+
+<!-- media: writing item  -->
+{% for media in site.data.media %} 
+{% if media.id == 'P_0004' and media.tag == 'Writing' %}
+
+	{% include media-item-writing.html %}
+
+{% endif %} {% endfor %} 
+
+
+<!-- media: video item  -->
+{% for media in site.data.media %} 
+{% if media.id == 'P_0005' and media.tag == 'Video' %}
+
+	{% include media-item-video.html %}
+
+{% endif %} {% endfor %} 
+
+<!--  exhibition: exhibition item-->
+		{% for exhibition in site.data.exhibition %} 
+		{% if exhibition.id == 'E_0005' or exhibition.id == 'E_0040' %}
+
+			{% include exhibition-item-group.html %}
+
+		{% endif %} {% endfor %}
+	</section>
+
+</main>

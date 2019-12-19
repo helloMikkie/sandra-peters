@@ -5,11 +5,12 @@
 .item_work {
 	position: relative;
 	.image {
-	
+
 		img {
 			width: 100%;
 			height: 100%;
 			object-fit: contain;
+			display: block; 
 		}
 		&:hover{
 			filter: brightness(30%);
@@ -32,6 +33,45 @@
 	}
 	
 }
+
+
+/* ************************ 
+	Work Item NEWS
+************************ */ 
+
+.item_work_news {
+	position: relative;
+	.image {
+
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: contain;
+			display: block; 
+		}
+		&:hover{
+			filter: brightness(30%);
+		}
+	}
+	.title {
+		position: absolute;
+		min-width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		top: 50%;
+		left: 0;
+		transform: translateY(-50%);
+		h2 {
+			text-align: center;
+			margin-bottom: 1rem;
+			text-shadow: 2px 2px 10px var(--black);
+		}
+	}
+	
+}
+
+
 
 /* ************************ 
 	Media Items
@@ -127,7 +167,7 @@
 
 
 .item_writing {
-	padding: 1rem;
+	// padding: 1rem;
 	// background-image: linear-gradient(144deg, #3F3F3F 0%, #363636 14%, #131313 38%);
 	max-width: 100%;
 	max-height: 100%;
@@ -165,7 +205,7 @@
 
 .alternative-yellow{
 	// background-image: linear-gradient(135deg, #17a0b8 0%, #17a0b8 20%, transparent 20%);
-	background-image: linear-gradient(135deg, #0a0091  0%, #0a0091  20%, #131313 40%);
+	// background-image: linear-gradient(135deg, #458eca8e  0%, #458eca8e  10%, #131313 30%);
 	
 }
 
