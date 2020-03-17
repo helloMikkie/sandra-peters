@@ -26,6 +26,12 @@
     background: var(--extra-white);
 
 }
+@media (max-width: 1024px){
+    .tag {
+        padding: 0.5em  0.9em;
+  
+    }
+}
 
 // Tag overlay Image: Work-Grid view
 .invert{

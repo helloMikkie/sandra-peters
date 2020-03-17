@@ -230,6 +230,16 @@
 	color: var(--gray); 
 }
 
+
+@media(max-width: 1024px){
+	.header-title{
+		font-size: var(--fs-medium); 
+	}
+	.header-author, .related, .subheadline{
+		font-size: var(--fs-x-small);
+	}
+}
+
 /* ************************ 
 	Work-Detail Pseudo-Slider 
 ************************ */

@@ -35,6 +35,7 @@
 }
 
 
+
 /* ************************ 
 	Work Item NEWS
 ************************ */ 
@@ -308,6 +309,24 @@
 
 }
 
+@media (max-width: 1024px){
+	.item_exhibition .title > h2,
+	.item_video .title > h2,
+	.item_writing > h2,
+	.item_essay > h2,
+	.item_publication .item-title > h2{
+		font-size:var(--fs-medium); 
+	}
+}
+@media (max-width: 560px){
+	.item_exhibition .title > h2,
+	.item_video .title > h2,
+	.item_writing > h2,
+	.item_essay > h2,
+	.item_publication .item-title > h2{
+		font-size:1.2rem; 
+	}
+}
 
 
 
